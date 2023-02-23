@@ -1,0 +1,1643 @@
+Location,Address,Period,Maximum Temperature,Minimum Temperature,Temperature,Heat Index,Precipitation,Wind Speed,Cloud Cover,Relative Humidity,,Disease
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 2000,33.1,17.5,25.4,32.3,0,14.8,0.3,48.93,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 2000,33.1,11.2,24.8,32,0,18.4,2.4,42.3,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 2000,31.1,11.2,24.3,31.9,0,22.3,5.5,57.2,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 2000,37.1,17.2,26.3,39.4,0,22.3,7.6,53.69,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 2000,34.1,17.3,25.9,32.8,0,18.4,1.1,44.75,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 2000,32.1,12.2,24,30.1,261.9,18.4,22.8,58.78,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 2000,30.1,15.3,23,29.5,0,24.1,10.7,63.04,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 2000,33.1,10.4,25,34.1,11.9,20.5,12,53.39,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 2000,35.1,18.1,25.1,34.4,0,61.3,16.7,59.11,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 2000,38.1,11.9,26.7,36.7,0,22.3,3.8,47.16,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 2000,32.4,14.4,24.9,30.5,0,22.3,5.1,48.34,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 2000,34.5,18.9,26,32.3,0,22.3,14.2,50.02,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 2000,40.1,16.2,28.5,42.3,0,22.3,5.6,40.82,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 2000,38.4,18.4,29.9,40.2,0,24.1,8.9,50.4,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 2000,34.4,24.2,29.1,39.3,4.2,22.3,25.6,56.6,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 2000,38.7,22.2,28.7,38,0,24.1,25.9,65.1,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 2000,34.6,22.7,29,40.7,5.6,22.3,31.9,65.55,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 2000,35.5,22.7,29.3,36.2,0,27.7,31.6,61.3,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 2000,34.7,23.4,29.3,36.3,3.1,24.1,40.6,62.09,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 2000,33.7,23,29.5,40.7,7.4,22.3,39.2,60.46,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 2000,34.1,22.1,28.2,39.3,219.76,22.3,66.6,72.32,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 2000,33.1,24.4,29.8,42.5,29.98,24.1,52.7,73.47,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 2000,33.2,22.4,29,42.6,104.94,27.7,70.8,79.73,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 2000,33.1,22.2,28.6,44,161.61,24.1,84.4,80.26,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 2000,31.1,22.7,28.8,36.7,18.71,27.7,54.8,68.99,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 2000,32.1,23.4,29.3,40.8,27.24,22.3,69.5,75.53,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 2000,32.1,22.2,27.5,40.8,134.81,22.3,84.5,86.15,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 2000,30.1,22.4,26.8,38.4,364.83,24.1,91.5,83.82,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 2000,30.1,22.4,26.6,36.3,567.93,27.7,95.4,83.52,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 2000,30.1,22.4,27.6,36.3,37.28,50.4,80.4,82.96,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 2000,31.1,20.4,28.2,36.7,12.6,24.1,51,77.11,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 2000,33.1,23,29.7,40.8,8.3,24.1,48.1,71.74,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 2000,33.1,21.2,28.8,40.8,197.34,25.9,80.7,77.16,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 2000,33.1,21.9,30,44,31.52,25.9,65.6,70.46,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 2000,30.1,22.7,27.1,37.6,231.79,44.3,93.6,86.98,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 2000,30.1,21.7,26.1,35.2,126.53,22.3,81.1,87.18,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 2000,30.1,20.7,27.4,35.2,10.14,20.5,65.6,78.95,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 2000,32.1,18.4,28.2,36.9,0.2,22.3,46.4,74.64,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 2000,34.1,18.4,28.5,42.3,23.8,20.5,59,75.25,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Sep) 2000,33.1,21.1,28.2,42.3,194.74,18.4,65,76.27,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 2000,33.1,22.4,28.4,40.8,45.09,18.4,56.9,74.68,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 2000,33.1,20.6,28.2,40.7,96.73,16.6,65.9,73.56,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 2000,36.1,14.1,28.2,37.9,0,16.6,44.4,68.75,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 2000,35.1,20.1,27.8,37.1,0,18.4,15.3,68.97,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 2000,34.1,14.1,27.1,39.3,18.2,18.4,27.2,67.51,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 2000,36.1,17.4,27,38,30,16.6,23.6,67.97,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 2000,35.1,17.9,27.1,35.6,0,55.4,16.3,58.32,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 2000,36.1,18.5,26.9,36.4,0,16.6,18.6,58.13,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 2000,34.1,12.7,25.9,34.2,0,22.3,18.2,54.4,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 2000,35.1,8.1,25.4,37,0,14.8,14.9,52.12,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 2000,34.1,12.4,24.6,33,0,16.6,8.6,56.56,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 2000,35.1,13.7,25,34.1,0,14.8,7.2,55.36,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 53 (Dec) 2000,35.1,8.4,24.7,33.8,15.15,20.5,34.2,57.75,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 2001,33.1,16.5,24.1,33.5,0,20.5,20.7,64.99,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 2001,30.1,11.4,23.6,30.5,0,16.6,13.1,63.21,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 2001,33.1,15.7,25.4,33.1,0,22.3,23.9,59.31,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 2001,31.1,11.2,22.1,29.9,0,18.4,19.5,57.74,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 2001,32.4,14.4,23.6,30.5,0,18.4,36.7,55.83,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 2001,36.9,10.4,22.9,34.5,0,18.4,3.5,56.79,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 2001,33.7,13.6,22.8,31.2,0,18.4,5.3,63.16,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 2001,33.2,11.4,25.3,34.7,0,18.4,7.2,65.71,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 2001,33.7,11.1,25.8,33.8,0,20.5,26.9,65.76,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 2001,32.7,14.7,25.8,35,0,22.3,27.1,63.82,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 2001,32.4,13.7,25.5,33,0,22.3,19.7,67.23,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 2001,36.4,18.1,26.1,34.7,0,22.3,20.7,68.34,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 2001,35.2,15.4,25.7,33.6,0,24.1,17.1,56.35,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 2001,36.1,19.6,28.6,39.9,3.8,22.3,29.3,59.06,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 2001,36.4,22.6,28.4,37.8,0,24.1,40.2,61.01,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 2001,38.7,19.6,28.9,42,4.1,27.7,30.5,63.55,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 2001,38.7,21.9,28.8,38.1,0,25.9,18,67.03,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 2001,37.7,21.1,29.3,40.7,0,25.9,35.1,69.56,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 2001,36.2,23.4,28.9,38,0,74.2,35.7,70.66,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 2001,35.1,23,29.5,39.4,0,27.7,41,70.7,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 2001,36.1,24.1,30.1,43.7,22.91,33.5,53.2,64.7,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 2001,34.1,24.7,29.2,40.7,6.1,31.3,56.4,72.12,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 2001,35.1,23.6,28.3,39.4,108.9,25.9,69.8,78.7,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 2001,31.9,22.1,26.5,35.6,279.95,33.5,91,79.87,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 2001,31.1,23.4,28.1,37,37.97,27.7,72,72.16,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 2001,32.1,23,28.2,35.9,104.24,33.5,63.7,70.3,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 2001,31.1,22.1,26.1,36.3,239.63,29.5,91.6,81.81,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 2001,30.1,21.7,25.9,35.2,263.07,33.5,88.9,81.87,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 2001,31.1,22.1,27.1,35.6,39.66,29.5,87.8,75.47,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 2001,31.1,21.9,27.4,36.7,41.14,25.9,77.3,76.93,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 2001,31.1,22.1,26.9,36.7,37.44,27.7,81.9,77.32,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 2001,31.1,21.1,27,36.7,201.91,29.5,92.2,78.38,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 2001,32.1,22.1,27.2,36.9,194.73,31.3,89.9,77.04,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 2001,32.1,22.2,27.7,36.9,24.21,22.3,85.6,74.48,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 2001,32.1,22.2,27.9,36.9,26.26,27.7,74.5,72.4,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 2001,34.1,20.4,27.8,39.5,7.6,18.4,66.2,73.57,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 2001,32.7,20.4,27.9,39.3,13.1,27.7,60.5,72.21,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 2001,33.1,21.7,26.9,40.7,179.02,27.7,79,80.66,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 2001,33.1,21.1,27.9,44,148.6,27.7,66.7,79,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Oct) 2001,32.1,22.2,27.3,39.3,435.78,27.7,73.8,83.44,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 2001,34.1,22.2,27.6,43.7,179.51,24.1,61.2,82.79,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 2001,36.1,19.2,28.9,45.9,49,20.5,45.6,70.35,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 2001,35.1,14.2,28.8,37.9,0,18.4,2.9,52.68,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 2001,35.1,12.9,27.8,44,0,18.4,6.4,64.58,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 2001,35.1,14.2,27.3,38.4,0,69.8,7.7,57.33,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 2001,35.1,11.4,27.6,44,0,79.6,10.2,60.51,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 2001,37.1,12.4,28.2,46.9,0,14.8,5.6,47.46,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 2001,34.1,12.1,24.8,34.1,0,14.8,16,57.33,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 2001,36.1,11.9,25.6,38.2,0,177.5,4.9,64.23,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 2001,35.1,13.7,25.7,39.5,0,177.5,6.1,66.87,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 2001,35.1,8.4,26.1,38.7,0,14.8,11.9,51.65,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 2001,36.1,15.4,26.6,38.4,0,177.5,24.4,56.3,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Dec) 2001,34.1,19.5,25.6,33.6,0,14.8,20.6,60.84,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 2002,33.1,6.9,24.5,35,0,16.6,18,51.99,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 2002,35.1,12.9,26.1,37.1,0,14.8,9.4,56.43,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 2002,34.1,9.1,23.6,34.3,0,20.5,15,60.97,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 2002,30.3,7.2,21.7,31.4,0,22.3,11.2,57.11,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 2002,35.1,8.7,23.8,39.5,0,16.6,17.8,51.62,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 2002,34.1,12.9,23.9,37.1,0,18.4,27.2,54,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 2002,37.1,15.2,26.4,40.7,0,18.4,9.1,54.25,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 2002,36.1,18.2,25.5,46.4,0,24.1,9,55.49,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 2002,33.1,16.9,25.1,33.5,0,22.3,9.8,50.6,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 2002,36.1,17.8,25.8,34.4,0,24.1,22.5,50.15,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 2002,38.1,17.4,27.8,36.7,5.1,22.3,41,42.13,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 2002,36.9,15.4,27.4,34.7,0,179.6,16.6,57.24,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 2002,35.9,20.5,27.4,39.3,0,20.5,13.5,66.61,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 2002,35.2,21.3,28.4,40.8,2.1,24.1,25.7,69.28,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 2002,38.1,23.3,29.4,39.4,4.1,24.1,11.4,52.24,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 2002,39.1,23.3,29.5,50.5,2.2,25.9,28.8,65.13,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 2002,37.7,20.1,29.7,46.9,0,24.1,5.4,60.11,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 2002,41.2,23.4,29.1,42.3,3.5,18.4,23.5,67.1,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 2002,35.1,25.1,29.8,42.3,88.1,22.3,43.8,70.24,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 2002,34.1,24.9,29.3,39.4,0,22.3,44.9,68.83,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 2002,34.7,25.7,29.6,39.3,0,22.3,42.7,63.45,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 2002,33.8,26.3,30,40.8,6.9,24.1,43.4,69.02,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 2002,33.1,25.9,29.5,39.4,11,24.1,47.3,68.1,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 2002,33.6,22.4,27.7,42.5,131.2,34.2,74.5,82.75,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 2002,30.1,22.9,25.6,34.3,73.54,14.8,86.2,82.19,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 2002,28.4,13.9,24,30.8,103.3,18.4,91.6,85.52,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 2002,30.1,23.4,26,34.3,0.4,20.5,68.9,74.07,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 2002,29.7,22.7,25.9,32,0.1,33.5,62.4,73.65,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 2002,29.1,22.1,24.9,32.8,4.9,21.6,82.8,79.23,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 2002,28.4,21.7,24,30.6,17.1,18.4,83.5,84.91,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 2002,28.8,20.1,25.1,32,11,11.2,83.6,80.9,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 2002,27.7,21.4,23.1,31.8,52.1,13.9,94.2,88.82,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 2002,27.1,22.2,23.7,28.6,24.2,24.1,87.4,85.57,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 2002,27.2,20.7,23.3,28.6,8.8,14.8,89.8,84.26,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 2002,29.4,19.2,23.5,31.3,5.9,13,79.8,84.76,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 2002,28.4,20.9,23.6,29.9,20,11.2,73.8,84.41,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 2002,30.9,19.1,24.2,33.8,0,11.2,46.4,76.35,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 2002,33.1,20.4,27.7,37.1,19.7,14.8,60.3,67.22,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 2002,35.1,21.7,28.7,43.7,54.7,14.8,60.1,68.9,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Oct) 2002,38.1,22.1,30.6,43.5,0,16.6,21.5,60.42,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 2002,38.1,21.2,29.6,43.5,2.2,18.4,36,57.25,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 2002,36.1,22.6,28.6,42.5,9.2,20.5,51.5,66.6,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 2002,37.1,18.1,28.9,42.1,0,22.3,42.7,55.56,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 2002,37.1,14.1,27.9,39.4,0,18.4,20.3,58.17,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 2002,37.1,13.9,28.2,37.8,0,14.8,21.8,55.85,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 2002,37.1,14.2,28.4,39,1.2,18.4,27.2,60.48,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 2002,36.1,11.7,27.1,37.1,0,18.4,14.6,53.01,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 2002,35.1,14.4,26.3,35.9,0,18.4,9,57.76,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 2002,36.1,12.2,25.7,36.4,0,16.6,10.9,62.03,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 2002,35.1,13.4,26.6,35.8,0,18.4,21.3,54.27,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 2002,36.1,11.1,24.7,35.5,0,18.4,9.3,62.51,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 2002,31.1,12.4,22.9,31.5,0,22.3,6.2,62.36,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Dec) 2002,29.1,15.9,22.2,29.2,0.2,22.3,25.5,63.34,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 2003,33.1,10.1,22.9,33.1,0,16.6,19.4,64.21,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 2003,33.1,14.7,23.9,34.1,0,18.4,32.3,66.85,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 2003,33.1,11.4,24.4,32.3,0,18.4,22.4,51.07,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 2003,36.1,10.9,24.7,34.8,0,18.4,21.2,60.23,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 2003,33.1,14.9,24.4,35.6,0,20.5,12.7,65.28,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 2003,34.1,14.9,24.8,35.9,0,20.5,8.1,64.33,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 2003,36.1,14.1,25.5,36.9,0,22.3,1.1,59.75,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 2003,37.1,15.4,25.9,36.6,8,22.3,8.9,60.95,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 2003,37.1,16.7,27.9,39,0,22.3,2,58.75,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 2003,39.1,14.7,26.5,37.7,0,24.1,1.6,41.12,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 2003,37.1,14.9,27.2,38.1,0,22.3,12.7,54.06,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 2003,36.4,13.9,27.1,37,0,22.3,9.5,57.47,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 2003,35.4,21.4,27.9,35.6,0,24.1,5.1,62.23,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 2003,36.1,19,27.7,37.4,0,24.1,18.2,66.7,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 2003,35.5,23.1,29.3,38.7,1.4,27.7,23.3,59.05,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 2003,36.1,19.4,28.5,39.9,0,25.9,14.3,61.53,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 2003,36.2,21,28.8,38.4,0,55.4,20,66.02,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 2003,38.4,24.1,29.5,39.5,0,24.1,21.6,64.19,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 2003,40.2,21.7,29.2,42.1,0,27.7,18.3,61.53,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 2003,35.3,23.9,29.4,38.2,0,25.9,45.4,66.88,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 2003,35.1,21.7,29.9,38.9,0,25.9,41.6,64.99,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 2003,36.2,26.1,30.1,38.2,0,29.5,34.5,61.57,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 2003,36.4,25.4,30.2,40.8,0,24.1,41.6,62.51,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 2003,35.1,23.4,28.5,42,133.57,24.1,68.4,75.8,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 2003,32.1,21.7,26.7,37.9,182.26,22.3,88.4,80.5,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 2003,31.1,22.1,26.7,39.6,100.72,19.7,91.5,81.22,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 2003,31.1,23,26.6,35.6,97.6,20.5,81.4,79.57,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 2003,32.1,22.4,27.1,36.9,226.32,24.1,86.6,76.45,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 2003,33.1,23,27.7,37.1,144.5,25.9,85.8,73.67,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 2003,32.1,23,27.9,36.9,97.95,25.9,83.8,73.46,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 2003,32.1,22.7,27.9,36.9,23.11,22.3,83.4,72.71,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 2003,31.1,21.9,25.5,34.7,115.52,24.1,89.8,81.32,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 2003,32.1,21.4,27.1,36.9,221.2,22.3,77.1,74.13,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 2003,32.1,20.1,27.3,35,59.64,25.9,77,73.44,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 2003,34.1,21.7,26.8,38.4,97.94,22.3,77.4,73.65,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 2003,32.1,21.7,27.1,35,22.86,24.1,76,72.18,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 2003,32.1,20.9,27.1,35,51.3,22.3,76,70.29,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 2003,33.1,19.7,27.3,36.2,8.2,18.4,55.4,69.47,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 2003,32.1,21.6,24.9,36.9,50.6,14.8,83.3,82.17,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Oct) 2003,37.1,20.4,29.1,40.8,20.4,24.9,48.5,62.44,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 2003,35.1,22.3,28.9,39.6,68.3,18.4,58.7,63.85,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 2003,38.1,22.3,30,39.9,0,18.4,22.1,52.13,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 2003,38.1,20.1,28.5,39.4,0,18.4,17.5,55.49,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 2003,37.1,19.7,29.2,42.2,2.1,14.8,30.4,52.32,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 2003,38.1,15.4,29.4,39.9,0,14.8,27.6,54.12,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 2003,37.1,20.2,28.6,38.1,0,18.4,8,51.18,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 2003,36.1,17.3,26.7,39,0,18.4,16.3,61,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 2003,34.1,11.7,24.8,34.2,0,14.8,7.7,67.02,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 2003,34.1,13.9,25.1,34.7,0,14.8,13.2,62.36,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 2003,33.1,15.2,23.4,32.5,0,20.5,5.2,66.68,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 2003,32.1,10.4,21.3,31.1,0,18.4,10.3,69.32,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 2003,30.1,12.1,21,29.5,0,16.6,9.2,64.77,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Dec) 2003,32.1,15.7,22.5,32,0,14.8,4.4,64.44,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 2004,30.1,11.8,19.7,28.6,0,14.8,14.6,70.58,,FALSE
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 2004,31.1,12.6,21.6,30.4,0,18.4,8.5,60.28,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 2004,34.1,11.1,21.7,32.3,0,18.4,5,60.63,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 2004,30.4,11.6,20.4,28.9,0,25.9,20.2,61.2,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 2004,30.9,12.7,21.3,30.1,0,25.9,13.7,67.38,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 2004,33.1,12.9,22.1,32.5,0,22.3,2.9,55.72,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 2004,33.1,14.1,22.5,31.5,0,22.3,1.5,63.7,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 2004,37.1,14.4,24.1,35.9,0,22.3,4.6,64.44,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 2004,37.1,15.7,26,35.9,0,24.1,6.3,56.69,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 2004,40.1,19.6,28.4,38.4,0,22.3,28.3,47.71,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 2004,41.1,18.4,28.5,38.7,0,22.3,2.4,47.92,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 2004,41.1,20.4,29.4,41.9,0,25.9,6.4,53.61,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 2004,37.2,20.2,27.3,38,0,22.3,4.3,63.21,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 2004,35,21.7,27.2,37.1,0,22.3,39.8,67.93,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 2004,35.6,21.2,27.9,38.2,0,22.3,16.8,66.6,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 2004,35.2,22.5,28.6,39.4,0,20.5,14,59.34,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 2004,38.4,23.5,29.3,37,0,22.3,17.9,58.3,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 2004,40.2,24.3,29.3,37.8,0,24.1,16.1,61.09,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 2004,38.1,24.4,30.9,43.3,19.65,27.7,54.7,57.41,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 2004,34.1,25.1,28.6,38.4,20.7,25.9,52.5,66.12,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 2004,33.1,24.1,29.4,37.1,33,25.9,56.9,64.7,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 2004,35.4,24.1,29.9,37.4,1.3,27.7,35,59.85,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 2004,35.3,23,29.9,38.2,96.7,25.9,62.1,63.36,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 2004,35.1,24.1,28.3,37.8,14.7,29.5,78.6,65.96,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 2004,30.1,22.7,26.9,35.8,257.43,27.7,91.7,77.1,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 2004,32.1,23.4,28.7,36.9,11.4,31.3,76.3,67.65,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 2004,33.1,23,28.3,38.2,133.75,25.9,73.1,70.23,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 2004,31.1,23,27.6,35.6,60.8,25.9,70.9,72.13,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 2004,32.1,22.1,27.3,35.9,65,24.1,72.6,71.07,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 2004,32.1,23,28.1,40.8,133.57,27.7,86.9,73.58,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 2004,31.1,21.7,25.4,37.6,406.61,25.9,94.3,85.53,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 2004,31.1,22.1,26.5,35.6,446.82,33.5,94,81.52,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 2004,31.1,22.1,27.2,33.8,197.85,33.5,92.3,71.11,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 2004,31.1,22.4,26.6,34.7,124.73,27.7,84.1,71.07,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 2004,32.1,22.1,27.6,35,29.12,27.7,76.9,62.35,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 2004,32.1,19.4,27.9,35,8.03,24.1,63.7,66.1,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 2004,32.1,21.1,27.1,37.9,66.68,25.9,81.9,79.4,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 2004,32.1,22.4,28,38,66.7,24.1,64.2,73.81,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 2004,34.1,22.2,28,40.7,134.16,22.3,76.7,77.11,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Sep) 2004,33.1,21.7,28.1,40.7,60.8,18.4,67,75.1,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 2004,31.1,21.8,26.7,33.8,11,22.3,64.7,77.32,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 2004,34.1,19,26.2,36.2,0,18.4,16.3,65.47,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 2004,36.1,19.1,26.7,37.5,0,55.4,9.4,50.71,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 2004,37.1,17.2,27.4,37,0,18.4,42.1,56.39,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 2004,35.1,18.3,27,36.6,0.95,16.6,37.8,59.53,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 2004,36.1,19.2,28.3,39.9,11.4,18.4,36.8,65.12,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 2004,37.1,17.9,26.6,36.6,0,18.4,11,58.59,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 2004,36.1,15.7,26.3,35.9,0,18.4,0.2,54.62,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 2004,33.1,11.7,26.6,32.5,0,16.6,19.1,49.91,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 2004,35.1,14.4,26.5,33.4,0,18.4,7.4,49.88,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 2004,34.1,13.2,25.9,33.1,0,18.4,9.8,50.22,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 2004,31.1,10.4,23.5,31,0,18.4,14.9,66.38,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Dec) 2004,31.1,13.2,24.8,31,0,18.4,27.9,66.28,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 2005,27.1,17.1,22.7,27.1,0,22.3,44.2,59,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 2005,34.1,13.2,25.3,34.7,0,16.6,3.3,58.69,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 2005,31.1,10.4,24.4,30.9,0,18.4,19,57.99,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 2005,32.1,10.4,23.2,31.1,0,25.9,3.6,46.2,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 2005,30.5,13.4,23.5,29.4,6,18.4,34.7,55.32,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 2005,33.1,15.1,25.8,33.1,4.1,27.7,12.7,51.51,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 2005,36.1,14.7,27.6,37.4,0,22.3,6.5,51.4,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 2005,35.1,16.1,25.9,34.8,0,24.1,17.9,43.26,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 2005,37.7,14.9,26.1,38,0,24.1,5,50.58,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 2005,34.9,17.1,26.2,35.2,0,25.9,21,67.02,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 2005,35.1,16.4,25.7,33,0.6,33.5,21.6,60.06,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 2005,37.1,19.4,28.7,38,0,29.5,2.1,49,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 2005,35.9,20.1,27.7,38.2,0,31.3,7.8,58.43,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 2005,39.1,21.7,28.6,40.8,0,33.5,8.4,62.46,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 2005,37.1,21.2,29.6,44,0,29.5,21.3,59.03,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 2005,34.9,22.1,28.7,36.7,21.3,27.7,27.1,52.73,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 2005,35.7,23.3,29.4,39.5,16,29.5,41.4,59.77,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 2005,33.9,22.6,28.5,34.3,0,27.7,22.5,56.6,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 2005,33.6,23.7,28.6,35.9,9.3,31.3,37.9,53.52,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 2005,34.3,20.1,28.9,33.7,0,27.7,21.1,52.35,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 2005,35.5,24.1,29.9,39.3,0,27.7,33.2,60.12,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 2005,35.4,25.4,30.9,37.4,16,29.5,36.4,50.92,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 2005,34.6,25.9,30.7,36.6,6.4,27.7,50.9,51.94,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 2005,34.7,27.3,31.5,39.5,5,22.3,45.4,52.94,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 2005,34.5,23.9,30.7,39.5,119.92,29.5,59.7,62.15,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 2005,36.4,22.9,26.8,40.1,419.2,27.7,93.1,73.89,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 2005,31.1,22.9,27,36.7,301.47,27.7,97.2,79.02,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 2005,31.1,25.8,28.1,35.6,46.25,25.9,88.5,72.2,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 2005,31.7,23.4,28.5,39.3,51,29.5,83.5,74.67,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 2005,31.1,23,27.6,37.9,195.72,22.3,87.6,75.15,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 2005,30.1,22.6,26.7,35.2,413.65,25.9,94.7,78.81,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 2005,30.1,22.1,26.5,34.3,288.98,29.5,96.8,79.81,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 2005,30.1,22.7,26.9,34.3,18.6,27.7,89.6,76.4,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 2005,30.1,22.2,26.5,34.3,70.72,27.7,88.3,78.36,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 2005,31.1,23.5,27.1,34.7,19.27,22.3,68.4,74.18,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 2005,31.9,22.9,27.4,35.6,132.57,24.1,71.2,75.25,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 2005,32.1,22.4,26.7,38,281.2,22.3,92.2,82.38,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 2005,30.1,23,26.8,34.3,111.13,25.9,90.1,75.99,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 2005,30.1,22.7,26.2,33.7,284.81,27.7,90.7,80.45,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Oct) 2005,30.1,22.4,26.5,33.4,80.61,18.4,64.8,75.45,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 2005,35.1,23.9,27.8,39.5,24.1,22.3,44.6,72.6,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 2005,35.1,22.6,28.8,37.9,48.1,18.4,47.9,61.03,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 2005,33.1,19.2,27.6,38.2,0,18.4,47.4,69.1,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 2005,33.1,14.9,26.7,39.3,14.5,14.8,36.6,62.75,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 2005,33.1,13.9,26.2,34.3,0,18.4,13.4,59,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 2005,34.1,10.1,25.8,33.1,0,18.4,12.4,48.9,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 2005,34.1,11.9,25.5,34.6,0,16.6,6.1,52.31,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 2005,35.1,13.4,25.7,33.3,0,16.6,22,52.49,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 2005,32.1,17.7,25.9,32.5,0,16.6,55.8,53.99,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 2005,33.1,18,26.1,34.7,0,18.4,7.7,54.8,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 2005,32.1,10.6,24.7,32,0,18.4,12.3,49.4,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 2005,31.1,10.1,22.4,30.1,0,18.4,1,56.03,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 53 (Dec) 2005,32.1,11.4,23.6,31.7,0,13,0.2,61.36,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 2006,30.1,16.6,22.8,29,0,14.8,9.5,64.64,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 2006,32.1,11.4,23.6,31.1,0,20.5,17.7,58.76,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 2006,34.1,12.1,25.4,33.7,0,14.8,9,55.77,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 2006,34.1,16.2,25.1,34.6,0,22.3,0.1,60.07,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 2006,32.1,9.7,23,30.3,0,22.3,0.3,44.76,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 2006,35.1,10.4,25.9,34.6,0,18.4,0.7,46.94,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 2006,34.1,12.9,25.9,32.8,0,18.4,1.3,44.31,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 2006,35.1,16.4,26.2,34.4,0,18.4,12.4,52.59,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 2006,38.1,19.4,28,37.3,0,25.9,7.4,48.77,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 2006,33.7,19.2,27.1,33.1,0,20.5,9.1,51.13,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 2006,31.3,17.4,24.7,32.6,14,22.3,35.7,70.71,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 2006,34.7,20.2,26.6,37.1,0,22.3,17.9,68.71,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 2006,36.1,22.5,28.6,38.4,0,25.9,4,58.91,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 2006,37.1,21,28.6,40.8,0,25.9,8.5,56.05,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 2006,34,21.6,28.1,35.9,0,25.9,7.3,62.04,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 2006,34.2,23.3,28,34.7,0,18.4,19.1,63.56,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 2006,34.2,24.2,28.6,35.5,0,31.3,19.2,61.4,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 2006,33,23.3,28.1,33.9,0,22.3,31.1,65.35,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 2006,36.1,25.2,29,35.7,0,22.3,36.3,65.95,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 2006,39.2,25.1,29.4,38.6,0,20.5,37,61.84,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 2006,33.9,26.4,29.6,38.2,0,24.1,43.2,62.4,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 2006,32.8,24.7,29.9,36.9,0.5,35.3,52.8,64.78,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 2006,33.1,23.1,27.4,37.1,309.16,22.3,87.8,75.39,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 2006,31.7,25,28.8,35.6,1.2,21,49.9,67.92,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 2006,32.8,23.7,29.1,36.9,45.1,25.9,53.3,68.65,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 2006,32.7,22.2,28.2,38,73.09,20.5,84,72.84,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 2006,32.1,23,26.9,37.9,419.41,31.3,95.2,82.84,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 2006,30.1,22.2,26.4,35.2,581.37,31.3,93.6,81.3,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 2006,30.1,23.7,27.6,35.2,25.2,27.7,87.7,76.38,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 2006,30.1,22.2,26.6,33.7,121.94,33.5,92.2,80.32,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 2006,30.1,22.4,26.6,34.3,194.24,37.1,93.3,79.59,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 2006,29.1,22.1,26.1,32.9,329.16,35.3,93.8,80.86,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 2006,28.1,22.1,25.8,32.1,390.44,31.3,95.9,84.64,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 2006,29.1,22.2,25.9,32.9,162.27,27.7,92.2,83.75,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 2006,29.1,22.9,26.3,32.9,43.98,22.3,83.9,79.65,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 2006,29.1,21.7,26.4,32.9,65.66,22.3,83.9,78.19,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 2006,32.1,23.7,27.2,36.7,91.27,18.4,71.8,76.56,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 2006,31.1,22.6,26.9,35.2,156.83,24.1,85.5,80.59,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 2006,31.1,21.7,26.7,35.2,14.52,27.7,78.4,79.7,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Oct) 2006,31.1,21.1,27,35.6,85.95,25.9,77.6,78.57,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 2006,31.1,22.4,27.5,36.7,181.7,18.4,73.1,78.35,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 2006,35.1,23.8,28.7,39.4,4,18.4,41.9,70.76,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 2006,35.1,21.4,29.5,38.7,0,16.6,17.3,59.32,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 2006,35.1,22.4,29,36.2,3.1,22.3,25.2,51.25,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 2006,34.1,21.2,28.3,36.6,14,20.5,31.4,60.53,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 2006,33.1,20.7,27.4,34.7,13.2,22.3,19.9,54.38,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 2006,34.1,16.6,27.6,34.7,0,14.8,15.9,52.08,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 2006,33.1,21.8,27.6,34.3,17,16.6,44.5,58.77,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 2006,33.1,18.7,26.9,33,2,18.4,28.8,56.4,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 2006,33.1,16.2,25.9,32.3,0,14.8,12.3,59.26,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 2006,34.1,14.2,26.2,33.7,0,16.6,10.4,51.66,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 2006,33.1,14.1,25.3,31.4,0,20.5,28.2,51.96,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Dec) 2006,33.1,15.2,25.3,32,0,24.1,4.8,57.57,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 2007,32.1,14.9,23.7,32,0,22.3,3.6,55.25,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 2007,32.1,14.7,24.5,33,0,20.5,10.5,63.18,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 2007,32.1,13.1,24.4,33.6,0,22.3,12.2,58,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 2007,34.1,12.7,25.9,34.7,0,22.3,24.2,57.66,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 2007,35.1,13.9,26.9,35.8,0,20.5,29.4,51.4,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 2007,30.1,16.2,24.6,32,0,16.6,16.3,71.36,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 2007,31.1,15.1,24.4,31.5,0.3,20.5,23.8,67.27,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 2007,35.1,15.9,27.4,34.2,0,24.1,21.4,52.86,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 2007,35.1,18.1,26,33.8,0,18.4,13.6,60.38,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 2007,36.1,16.7,27.4,34.7,0,25.9,1.4,48.44,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 2007,37.4,20.6,28.1,35.8,0,25.9,12.2,53.07,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 2007,35.1,19.4,28,37,0,29.5,17,57.61,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 2007,38.1,20.4,29.1,38.1,0,24.1,12.1,57.67,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 2007,39.1,24.8,30.6,39.3,0,24.1,18.5,46.81,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 2007,35.3,23.6,29.1,33.9,8,24.1,11.6,47.15,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 2007,37.4,23.2,29.1,35.9,0.4,20.5,28.3,46.28,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 2007,35.1,23.2,29.8,33.9,0,25.9,18,41.69,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 2007,40.7,22.9,29.9,39.3,2,22.3,32.6,41.68,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 2007,33.7,26.1,29.8,39.3,0,24.1,40.5,68.89,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 2007,34.2,26,30.1,40.7,0.3,20.5,41.2,68.04,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 2007,34.1,20.6,30.3,40.7,0.1,27.7,41.5,67.68,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 2007,34.6,25.1,29.9,42.3,17.5,33.5,60.2,69.51,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 2007,34.1,25.9,30.5,42.5,5.9,33.5,67.1,73.39,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 2007,33.3,25.1,29.5,42.3,45.2,33.5,72.2,77.39,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 2007,34.1,22.9,27.6,42.3,374.43,33.5,90.8,86.37,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 2007,31.1,22.7,27,37.9,566.41,37.1,91.1,84.35,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 2007,30.1,24.4,27.6,35.2,252.5,33.5,94.8,73.86,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 2007,31.1,23.7,28,36.7,26.27,33.5,90.5,77.62,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 2007,31.1,23.7,28.2,36.7,28,38.9,78.4,75.97,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 2007,32.1,22.4,27.8,38,166.17,25.9,82.9,80.3,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 2007,30.1,22.4,26.8,36.3,307.48,37.1,92,85.28,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 2007,31.1,22.9,27.6,37.9,140.36,38.9,85.8,80.05,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 2007,30.1,22.9,27.8,36.3,38.79,35.3,83.1,78.24,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 2007,31.1,23.9,28,37.9,52.9,24.1,73.3,78.95,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 2007,30.1,23,27,36.3,152.69,25.9,88.9,85.25,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 2007,31.1,23,27.5,36.7,73.86,25.9,82.3,81.78,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 2007,31.1,21.7,28.6,37.9,58.5,18.4,55.2,74.91,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 2007,31.4,22.7,26.9,36.3,214.45,22.3,87.7,84,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 2007,31.4,23,27.6,37.9,118.44,27.7,77.9,82.8,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Oct) 2007,32.4,21.2,28.5,39.3,0,18.4,45.8,73.1,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 2007,36.1,23.7,29.3,42.1,3,16.6,49.3,67.95,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 2007,36.1,22.1,29.2,37.1,0,22.3,25.6,51.15,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 2007,36.1,22.1,29.4,37.5,0,18.4,33.4,45.49,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 2007,35.1,18.4,28.6,40.7,13,14.8,48.9,68.43,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 2007,35.1,23.7,29.2,40.7,0.8,18.4,20.2,68.83,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 2007,34.1,19.7,28.1,37.1,0,18.4,16.5,50.58,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 2007,34.1,14.2,26.6,32.5,0,18.4,1.6,40.35,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 2007,34.1,13.9,26.7,33.7,0,18.4,33.4,48.63,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 2007,33.1,13.9,26,32,0,24.1,40.8,52.14,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 2007,33.1,18.2,25.5,34.3,0,20.5,18.5,61.45,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 2007,36.1,15.4,28,38.2,0,18.4,29.4,51.45,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 2007,34.1,13.7,25.3,36.6,0,24.1,9.8,55.34,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Dec) 2007,31.1,17.1,24.2,31.9,0,14.8,3.7,62.22,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 2008,33.1,15.9,24.3,31.5,0,24.1,1.9,54.51,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 2008,34.1,13.9,25.3,34.6,0,18.4,18.8,56.17,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 2008,35.1,12.6,25.7,34.8,0,22.3,4.6,56.37,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 2008,29.7,9.4,21.9,28.2,0,24.1,12.7,50.72,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 2008,30.9,9.2,22.4,28.8,0,22.3,11,53.08,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 2008,28.4,12.1,19.9,27.5,0,27.7,5.8,53.28,,FALSE
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 2008,34.1,13.1,25.8,33.1,0,22.3,10.1,48.43,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 2008,33.4,16.4,25.4,31.1,0,20.5,2.6,58.59,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 2008,37.1,17.2,27.6,35.2,0,20.5,0,39.58,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 2008,37.1,19.2,27.7,35.9,0,20.5,2.5,53.69,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 2008,35.7,18.1,27.8,38.2,0,18.4,27.3,60.8,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 2008,35.5,22.5,28.4,35.9,23.5,22.3,26.9,59.82,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 2008,34.2,23.4,28,35,0,29.5,28.5,62.87,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 2008,33.2,21.1,27.1,34.3,0,27.7,22.1,58.21,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 2008,37.1,24,30.2,38.1,0,25.9,19.7,50.53,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 2008,35.9,24.2,29.7,36.1,0,22.3,6.8,52.97,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 2008,39.4,22.1,31,39.4,0,25.9,19.5,52.3,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 2008,36.2,25.4,29.6,40.7,0,24.1,35.5,65.36,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 2008,34.1,26,29.7,37.9,0,25.9,39,66.18,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 2008,33.7,26,30,39.4,0,27.7,38.9,65.27,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 2008,34.5,25.9,30.8,40.7,3,25.9,41.2,66.68,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 2008,34.9,24.7,31.3,40.7,0,24.1,41.2,65.66,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 2008,35.1,22.7,28.9,40.7,358.66,22.3,67.5,75.07,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 2008,31.1,23.9,27.3,39.3,243.54,35.3,92.6,84.93,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 2008,31.1,26.9,29.2,39.3,10.4,31.3,84,76.97,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 2008,31.1,22.4,28.1,37.9,66.05,27.7,73.9,81.33,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 2008,30.1,22.9,27.6,37.6,270.79,29.5,82.9,83.08,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 2008,31.1,23.2,28,39.3,59.48,35.3,84.4,80.74,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 2008,30.4,24.2,28.1,37.6,24.2,25.9,68.5,80.89,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 2008,30.3,22.2,26.8,37.6,300.41,27.7,81.9,85.39,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 2008,30.1,22.7,26.8,36.3,242.67,31.3,81.8,85.72,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 2008,30.1,21.4,26.4,36.3,351.28,29.5,94,86.82,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 2008,29.1,21.9,26.2,34.7,213.85,33.5,95.5,87.99,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 2008,30.1,20.4,26.8,33.7,23.9,22.3,75.3,80.19,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 2008,31.1,22.6,27.7,35.6,45.32,20.5,72.6,78.5,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 2008,31.1,22.2,27.6,37.9,86.14,22.3,77.9,83.09,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 2008,30.1,23.4,26.6,36.3,152.34,31.3,92,86.63,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 2008,29.1,22.7,26.5,33.7,192.93,25.2,86.5,84.59,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 2008,31.1,19.9,27.3,34.7,0,18.4,38,73.81,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Sep) 2008,31.4,21.6,27.2,37.9,8.26,20.5,40.1,74.72,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 2008,35.1,21.7,28.4,40.8,37,22.3,59.1,73.4,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 2008,37.1,22.7,30.7,40.8,0,18.4,19.5,51.96,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 2008,36.1,19.7,29.5,36.6,0,20.5,18.9,42.42,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 2008,35.1,15.4,28.1,36.2,0,20.5,3.8,59.22,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 2008,35.1,16.7,28.1,37.4,0,24.1,0,52.25,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 2008,35.1,14.7,27.6,34.8,0,18.4,15,51.06,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 2008,35.1,18.2,29.1,39.6,0.3,20.5,34.6,62.1,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 2008,35.1,13.4,27.6,35.9,0.1,20.5,36,49.58,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 2008,35.1,14.2,28.1,39.3,22,18.4,29.6,61.65,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 2008,34.1,14.1,26.8,35,0,16.6,18.3,60.32,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 2008,35.1,16.9,27.3,34.8,0,20.5,53.7,53.17,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 2008,33.1,11.2,25.7,33.6,0,20.5,15.5,54.56,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Dec) 2008,31.7,10.4,23.4,30.1,0,16.6,0,56.94,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 2009,32.1,16.1,24.7,30.9,0,18.4,0.6,62.38,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 2009,32.1,15.2,24.3,33.1,0,18.4,7.7,59.75,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 2009,33.1,16.2,26.4,33.1,0,22.3,10.5,54.64,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 2009,35.1,15.2,27.2,34.4,0,22.3,16.2,47.85,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 2009,33.7,18.7,25.7,32.5,0,22.3,19.7,52.58,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 2009,32.7,16.9,25,32,0,22.3,0,54.49,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 2009,32.2,12.4,24.8,31,0,22.3,2.4,55.21,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 2009,36.1,19.2,28,35.2,0,20.5,5.3,45.93,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 2009,37.1,15.7,28.4,37,0,25.9,1.3,50.61,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 2009,36.5,16.1,28.6,38.2,0,22.3,1.9,51.44,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 2009,37.1,18.1,29,38.7,2,22.3,25.5,52.2,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 2009,36.2,21.9,28.4,36.9,0,27.7,12.5,58.45,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 2009,37.1,13.2,28.9,39.4,0,27.7,12.8,59.95,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 2009,40.1,23,30.8,45.5,0,24.1,33.7,63.65,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 2009,40.1,21.6,31.2,40.7,0.4,27.7,16.4,45.96,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 2009,37.4,25.3,29.9,39.3,0,27.7,31.8,63.55,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 2009,39.4,23,30,40.7,0,29.5,34.7,61.2,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 2009,40.2,21.4,30.1,42.3,0,29.5,26,68.79,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 2009,39.1,21.4,30.1,40.7,0,27.7,17.7,64.65,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 2009,34.7,25.8,29.9,39.4,0,29.5,39,67.58,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 2009,34.4,27.4,30.3,39.9,1,25.9,52.7,69.74,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 2009,35.7,26.7,30.2,39.4,0,25.9,44.3,66.2,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 2009,34.1,25.2,30.8,40.8,72,25.9,50.9,69.2,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 2009,33.8,27.3,30.6,40.7,0,25.9,47.5,66.8,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 2009,34.1,25.4,30.4,40.7,45.1,29.5,56.7,69.73,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 2009,34.1,23.7,27.6,40.7,182.46,25.9,77.1,81.4,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 2009,31.7,23.4,26.9,37.9,263.63,29.5,90.2,87.74,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 2009,30.1,23.6,26.9,39,167.57,24.1,88.5,88.48,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 2009,31.1,22.1,27.3,39.3,425.18,33.5,89.6,86.86,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 2009,30.1,23,27.2,37.6,169.22,31.3,92.4,86.35,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 2009,30.1,23,27.9,37.6,17.62,29.5,82.5,83.38,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 2009,30.1,26.1,28.1,37.6,7.9,31.3,78.4,80.99,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 2009,31.1,23.2,27.9,37.9,19.42,24.1,69.4,81.22,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 2009,32.1,22.1,27.8,40.8,314.1,22.3,84.7,82.88,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 2009,30.1,22.7,27.2,37.6,116.7,27.7,75.6,85.1,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 2009,30.2,22.4,26.8,39,280.6,22.3,84.1,88.02,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 2009,31.1,21.6,27.5,37.9,16.3,25.9,79.5,83.93,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 2009,32.7,22.4,28.5,42.5,22.35,24.1,46.9,78.01,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 2009,32.3,23,28.3,42.5,66.38,22.3,62.1,82.03,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Oct) 2009,33.1,21.2,28.4,44.3,76.96,24.1,77.3,83.81,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 2009,32.1,18.1,27,38,150.13,27.7,55.3,83.16,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 2009,35.1,19.7,29.2,40.8,27,18.4,48.3,67.84,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 2009,36.1,19.4,29.2,38.2,0,22.3,15.9,53.76,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 2009,37.1,14.2,29,36.2,0,22.3,1.3,44.09,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 2009,36.1,13.2,29.7,38.7,0,25.9,15.5,42.97,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 2009,32.1,22.1,26.1,36.3,115.94,22.3,75.6,79.82,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 2009,32.1,21.3,26.8,36.7,22.9,16.6,31.4,74.1,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 2009,34.1,16.2,27.1,35.9,0,16.6,20.1,65.76,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 2009,32.1,16.2,26,32.5,0,16.6,15.2,61.71,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 2009,33.1,20.1,26.9,34.3,0,18.4,3.4,59.84,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 2009,33.1,15.7,26.8,34.1,0.3,18.4,14.1,63.68,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 2009,34.1,16.2,25.7,33.7,0,20.5,13.4,51.6,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Dec) 2009,31.1,13.7,23.9,29.7,0,20.5,25.9,51.72,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 2010,33.1,16.9,26.7,33.5,0.1,18.4,21.8,57.98,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 2010,33.1,12.4,25.6,32.5,0,20.5,13.8,56.91,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 2010,33.1,17.4,26,33.5,0,22.3,19.8,54.58,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 2010,33.1,11.7,25.8,31.8,0,22.3,5.3,50.26,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 2010,33.1,11.4,26,31.7,0,20.5,16.5,44.19,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 2010,34.1,15.7,26.1,33,0,22.3,9.7,57.6,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 2010,31.8,16.4,25.2,32.1,0,25.9,15.6,61.65,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 2010,32.2,16.1,26.4,32,0,22.3,35.4,48.24,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 2010,37.1,13.1,26.9,35.9,0,24.1,13.3,53.48,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 2010,34.5,21.1,27.3,37.1,0,24.1,20.7,61.37,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 2010,37.1,20.6,29.3,37.9,32,22.3,26.2,52.77,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 2010,37.7,19.7,28.5,40.8,0,25.9,27.8,66,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 2010,37.9,22.6,28.5,35.7,0,25.9,4.8,60.71,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 2010,38.1,22.9,29,41.5,0,25.9,17.1,59.11,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 2010,39.7,18.9,30.6,39.9,0,22.3,43.2,45.93,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 2010,40.2,21.2,30.2,42.3,0,24.1,23,64.25,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 2010,36.7,25.4,30.7,45.5,0,25.9,25.7,64.5,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 2010,37.1,25.1,31.1,45.5,2.49,24.1,23.3,64.44,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 2010,39.7,26.3,31.1,46.9,0.6,25.9,28.7,66.43,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 2010,39.9,27,30.8,44,0,24.1,28.6,67,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 2010,37.1,27.5,31.1,44.8,0,24.1,45.7,71.24,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 2010,36.2,27.5,31.2,42.3,0,24.1,42.4,68.45,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 2010,34.1,25.1,31,42.3,101.6,29.5,50.4,68.83,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 2010,33.8,22.7,29.4,42.3,149.86,24.1,81.6,75.74,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 2010,33.1,22.4,28,42.3,219.3,27.7,89.2,84.01,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 2010,31.4,22.1,27.7,40.8,266.96,22.3,82.6,85.21,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 2010,32.1,22.4,27.8,40.8,223,25.9,89,85.97,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 2010,31.1,23,27,39.3,314.47,27.7,89.2,87.86,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 2010,31.1,23.4,28,39.3,187.4,24.1,83.3,84.01,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 2010,30.1,23,26.8,37.6,349.98,27.7,94.2,88.91,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 2010,31.1,22.7,26.6,39.3,245.05,31.3,94.1,89.23,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 2010,30.1,22.9,27.6,37.6,122.86,25.9,87.9,84.7,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 2010,30.1,22.6,27.4,37.6,62.4,29.5,78.7,84.78,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 2010,29.2,23.4,26.3,35.8,431.63,22.3,91.6,90.55,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 2010,31.1,22.4,27.3,39.3,175.68,27.7,86.1,88.29,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 2010,30.1,22.2,26.8,37.6,291.43,29.5,85.3,87.3,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 2010,31.1,22.9,27.1,36.7,99.37,24.1,80.7,85.16,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 2010,30.5,24.3,27.6,37.6,112.5,24.1,73.4,82.81,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 2010,33.1,21.7,28.6,42.3,27.5,22.3,59.2,79.67,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Oct) 2010,36.1,23.9,29.8,44,48.4,20.5,55.1,70.17,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 2010,33.1,20.7,29.1,44,138.01,22.3,49.5,76.37,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 2010,31.3,21.7,27.6,39.3,59.7,24.1,64.9,77.4,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 2010,31.1,23,27.8,40.8,38.81,22.3,70.9,83.42,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 2010,35.1,18.7,28.7,39.4,0,20.5,29.3,65.79,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 2010,34.1,21.1,28.4,38,16.3,20.5,36.1,61.81,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 2010,33.1,20.7,28.2,39.4,13.89,27.7,61.8,72.18,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 2010,33.1,23,28.3,39.3,25.27,18.4,58.5,73.78,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 2010,32.1,19.1,27.1,36.9,26.8,27.7,50.9,77.78,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 2010,33.1,17.9,27.6,35.9,0,18.4,15.6,66.29,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 2010,31.1,15.9,24.6,31.4,0,20.5,19.6,58.05,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 2010,31.1,11.4,23.9,30.1,0,18.4,3.4,50.36,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 2010,32.1,12.9,23.5,30.2,0,16.6,12.6,59.43,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Dec) 2010,29.1,14.1,23.9,29.3,0,22.3,24.7,62.66,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 2011,29.1,14.4,22.4,28.9,0,18.4,19.2,48.66,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 2011,31.1,9.1,24.8,31.9,0,16.6,15.5,47.46,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 2011,31.1,10.1,23.7,29.7,0,22.3,0.1,55.18,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 2011,32.1,11.1,24.5,31.7,0,18.4,0.8,52.84,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 2011,32.1,14.1,24.8,31.9,0,20.5,0.3,52.42,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 2011,34.1,13.7,26.5,33,0,24.1,0.4,47.31,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 2011,32.1,15.2,25.4,31.9,0,20.5,0.2,55.52,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 2011,29.1,14.1,24.4,30.9,0,25.9,6.1,58.04,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 2011,34.1,19.2,25.9,32.8,0,22.3,7.4,52.24,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 2011,34.1,21.2,28.4,36.2,0.4,22.3,10.4,48.7,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 2011,37.1,19.2,28.7,36.9,0,24.1,0.5,40.24,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 2011,39.1,21.8,29.5,36.3,0,22.3,0,44.46,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 2011,35.1,15.1,27.7,38,0,25.9,14.1,63.85,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 2011,39.1,13.2,29.1,39.5,0,24.1,6.9,55.57,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 2011,35.9,20.7,28.1,38.2,0,24.1,21.4,67.6,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 2011,33.8,22.2,29.2,40.8,0,24.1,19.4,70.24,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 2011,36.6,21.1,29.2,39.3,26,24.1,18.3,69.49,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 2011,37.7,25.7,29.7,40.8,0,24.1,27.2,68.69,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 2011,33.8,24.9,29.1,39.3,0,25.9,37.2,70.06,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 2011,35.2,25.5,29.3,39.3,0,24.1,38.4,70.03,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 2011,34.1,26.1,30,44.3,0,27.7,53.3,72.48,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 2011,34.6,24.2,30.4,43.7,4.8,24.1,43.7,69.6,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 2011,34.1,22.9,29.6,42.5,253.65,25.9,64.2,76.73,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 2011,32.1,25,27.7,40.8,21.69,25.9,79.1,84.08,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 2011,32.1,22.9,28.1,44.3,72.11,29.5,85,87.13,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 2011,31.1,23.2,29.1,39.3,16.3,33.5,81.2,79.92,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 2011,31.1,24.1,28.6,39.3,95.21,29.5,80.2,80.32,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 2011,31.1,23.7,27.1,37.9,320.13,25.9,87,86.14,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 2011,31.1,22.6,26.5,37.9,354.18,29.5,92.7,90.36,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 2011,30.1,23,27.6,37.6,141.7,29.5,88.3,86.92,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 2011,30.1,22.1,26.5,37,378.04,27.7,90.2,90.23,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 2011,30.1,22.4,27.1,37.6,70.01,27.7,92.4,88.35,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 2011,30.1,22.9,27.7,37.6,26.5,27.7,90.4,84.15,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 2011,30.1,22.7,27.4,37.6,55.64,24.1,87.9,84.32,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 2011,29.1,21.7,26.1,35.8,378.28,25.9,93.3,90.22,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 2011,31.1,22.4,26.7,39.3,355.71,37.1,86.3,93.26,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 2011,30.1,22.1,27.4,37.6,61.28,27.7,88.6,85.1,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 2011,30.7,23.2,26.9,36.3,74.8,33.5,78,86.4,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 2011,30.1,20.1,27,36.3,42.4,22.3,58.2,78.68,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Oct) 2011,31.1,21.1,27.8,37.9,94.1,24.1,51.6,76.66,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 2011,34.1,20.2,28.5,44.3,21.4,22.3,55.6,76.64,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 2011,34.1,20.9,28.3,44,230.45,24.1,66.9,78.68,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 2011,36.1,20.4,29,42.5,8,20.5,31.4,64.77,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 2011,35.1,17.1,29.3,38.4,0,22.3,20.6,49.86,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 2011,36.1,19.1,29.1,38.7,0,18.4,6.9,58.32,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 2011,35.1,16.2,28.6,38.4,0,18.4,1.1,57.04,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 2011,35.1,16.1,28.3,37.1,0,20.5,6.5,47.62,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 2011,35.1,16.9,28.2,36.2,0,20.5,17.2,43.91,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 2011,34.1,19.1,28.6,38.2,0,18.4,19.9,58.63,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 2011,34.1,15.7,26.9,36.2,0,16.6,0.7,57.46,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 2011,34.1,19.2,26.5,33.7,0,18.4,9.5,50.6,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 2011,33.1,12.9,25.8,32,0,18.4,13.6,51.07,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 53 (Dec) 2011,31.1,10.4,24,30.1,0,18.4,5.1,50.07,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 2012,27.9,21,23.9,28,0,16.6,28.4,48.94,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 2012,32.1,16.1,24.4,30.5,0,22.3,2.9,54.45,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 2012,31.1,10.1,23.3,29,0,20.5,0,42.54,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 2012,29.1,15.7,22.3,28.2,0,22.3,10.2,60.52,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 2012,30.1,13.2,23,30.1,0,24.1,7.2,57.61,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 2012,33.1,9.7,25,33.5,0,22.3,2.2,54.39,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 2012,34.1,12.6,23,32.2,0,24.1,8.6,42.02,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 2012,33.4,15.4,24.7,33.1,0,20.5,0.5,47.43,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 2012,37.1,13.9,27.4,35.9,0,24.1,0.5,41.33,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 2012,33.3,16.7,25,34.7,0,20.5,2.9,56.82,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 2012,34.5,12.7,24.8,34.6,0,22.3,8,54.59,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 2012,36.4,15.1,27.5,38.2,0,24.1,1.4,45.48,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 2012,38.1,16.9,28.8,39.3,0,22.3,0,44.96,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 2012,37.7,20.1,28,39.5,0,24.1,10.8,71,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 2012,33.6,19.4,28.6,40.8,0,22.3,21.1,70.88,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 2012,38.1,24,29.3,40.8,0,22.3,34.6,67.1,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 2012,36.1,25.4,30.4,46.9,7,22.3,35.7,60.96,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 2012,35.7,22.1,29.3,40.8,0,27.7,15.7,67.07,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 2012,34.7,24.4,28.9,37.9,0,22.3,35.9,74.99,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 2012,33.7,25.4,29.3,39.3,0.2,27.7,36.3,73.78,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 2012,34.4,23.2,29.6,42.3,0,31.3,35,69.36,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 2012,33.8,26.1,29.7,39.3,0,25.9,42,68.69,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 2012,33.6,26.9,30.1,40.8,0,22.3,41.7,67.6,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 2012,33.6,21.6,29.1,40.8,29.97,30.2,67.5,73.9,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 2012,33.2,24.1,29.1,40.8,100.18,27.6,58.9,75.85,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 2012,32.1,25.1,29.4,42.6,52.2,31.3,63,75.84,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 2012,32.1,24.9,28.4,42.6,138.12,25.9,73.4,80.05,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 2012,31.7,23.4,27.7,39.3,178.27,27.7,88.1,85.07,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 2012,31.2,22.9,27.8,39.3,170.76,27.7,81,82.48,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 2012,31.1,22.9,28.3,39.3,158.93,29.5,86.7,81.78,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 2012,31.1,24.2,28.1,37.9,37.33,25.9,92.7,81.94,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 2012,30.1,23.9,27.7,39,102.98,29.5,92.1,83.24,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 2012,30.1,22.1,27.2,37,83.29,29.5,91.4,85.18,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 2012,30.1,21.9,27.5,39,28.47,25.9,80.9,81.08,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 2012,31.1,22.7,27.7,39,69.18,24.1,69.5,81.25,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 2012,29.6,21.7,26.6,35.8,144.24,22.3,85.1,89.93,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 2012,30.1,22.6,26.8,37.6,307.6,31.3,86,88.69,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 2012,30.1,22.4,27,36.3,395.13,24.1,80.3,84.48,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 2012,30.1,23,27.3,35.2,62,22.3,69.2,79.68,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Sep) 2012,35.1,21.4,28.3,40.8,34,24.1,47.7,74.48,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 2012,32.1,22.2,27.4,40.8,192.14,22.3,84.9,84.72,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 2012,35.1,23.3,28.8,44,38,20.5,33.4,71.9,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 2012,35.1,21.9,29.5,36.6,0.1,18.4,29.8,54.11,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 2012,35.1,23.2,29.5,39.5,24.1,18.4,39.4,59.81,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 2012,35.1,18.9,28.5,37.9,0.2,20.5,36.5,53.25,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 2012,34.1,19.6,27.6,35.6,0,22.3,9.3,60.87,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 2012,34.1,15.2,27.2,34.3,0,20.5,10.8,52.38,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 2012,33.1,9.7,26.6,34.3,0,18.4,3.5,45.25,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 2012,32.1,17.4,25.7,33.6,0,22.3,4.9,59.25,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 2012,35.1,14.9,27.8,37,0,22.3,16.9,57.34,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 2012,32.1,16.2,24.9,32.5,0,22.3,7.6,65.66,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 2012,34.1,11.4,25.9,33.1,0,22.3,11.5,52.54,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Dec) 2012,32.1,13.1,24.7,32.5,0,18.4,8.7,51.68,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 2013,29.3,20.1,25.2,30.1,0,16.6,29,66.62,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 2013,30.3,13.8,23.2,30.4,0,18.4,5.6,56.65,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 2013,33.1,8.7,24.2,32,0,18.4,1.2,51.16,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 2013,32.4,10.4,23.4,31.5,0,24.1,6.3,59.38,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 2013,31.1,13.2,23,29.9,0,20.5,4.9,63.7,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 2013,31.1,13.9,24.2,30.9,0,20.5,12.4,61.35,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 2013,33.1,17,24.6,33,0,20.5,6.3,60.62,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 2013,35.1,13.1,26.8,35.8,0,20.5,24.8,56.91,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 2013,33.8,14.2,25.5,33.8,0,22.3,1.8,54.85,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 2013,38.1,14.7,27.1,35.9,0,22.3,2.1,45.37,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 2013,39.1,13.7,29.5,37,0,22.3,1.7,31.75,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 2013,33.7,21.8,27.1,34.3,3.2,22.3,15.1,62.47,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 2013,34.1,16.4,27.8,33.5,0,24.1,17.9,56.61,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 2013,35.7,20.1,27.9,35.4,0,24.1,21.8,58.12,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 2013,36.7,19.1,27.8,35.9,0,24.1,14.1,61.77,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 2013,34,17.9,28.7,36.9,0,24.1,10.4,61.93,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 2013,34.2,22.9,28,34.7,0,24.1,30.2,63.95,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 2013,37.1,24.7,30.8,40.8,0,22.3,10.8,58.89,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 2013,35.7,26.2,30.2,40.7,0,25.9,21.5,65.4,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 2013,34.1,26.4,29.8,38,0,25.9,33.5,66.58,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 2013,33.3,25.8,29.9,38,0,24.1,44.4,66.36,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 2013,34.5,26.7,30.6,40.7,0,24.1,43.7,67.42,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 2013,35.4,26.1,30.9,40.7,0.8,25.9,43.4,66.61,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 2013,33.2,23.4,28.7,40.8,205.75,22.3,77.4,77.68,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 2013,32.1,22.9,27.3,40.8,414.94,27.7,92.1,87.12,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 2013,32.1,23,27.6,39.3,132.7,25.9,82.5,85.19,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 2013,31.1,22.9,27.3,39.3,166.54,31.7,88.7,85.51,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 2013,31.1,22.7,27.8,37.9,40.24,27.7,85.9,84.22,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 2013,31.1,22.1,26.6,39.3,230.91,33.5,94,87.38,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 2013,30.1,22.1,26.6,36.3,225.45,27.7,95.2,87.54,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 2013,29.1,22.2,26.2,34.7,304.51,35.3,96.3,89.07,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 2013,29.1,22.2,26.5,34.7,144.98,33.5,91,86.44,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 2013,29.1,22.4,26.9,34.7,34.78,24.1,81.6,82.76,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 2013,29.1,22.7,26.9,34.7,40.09,25.9,90.1,84.5,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 2013,30.1,22.4,27.3,35.2,19.32,24.1,82.6,79.15,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 2013,30.4,23.4,27.3,35.2,28.92,24.1,65.9,79.99,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 2013,30.2,23.5,27.7,35.2,12.21,24.1,54.9,75.4,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 2013,32.1,22.1,27.6,40.8,145.9,27.7,83.5,83.59,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 2013,30.1,21.9,27.4,37.6,121.85,24.1,80.6,84.18,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 2013,30.1,21.9,26.9,36.3,73.5,27.7,82.5,84.59,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Oct) 2013,32.1,21.6,28,38,9,24.1,65.5,79.13,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 2013,31.1,18.6,27.3,37.9,46.85,22.3,61.1,80.28,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 2013,36.1,24,29.1,40.7,50,20.5,58.7,74.15,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 2013,35.1,22.9,29.4,39.3,3,24.1,33.7,62.45,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 2013,35.1,16.4,29,38.4,0,20.5,21,61.65,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 2013,35.1,17.7,28.4,38.7,0,18.4,28.8,58.7,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 2013,34.1,17.1,26.8,33.4,0,20.5,6.8,54.71,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 2013,35.1,18.7,27.2,35.4,0,20.5,7.9,54.51,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 2013,36.1,18.4,28.1,39.3,13,20.5,32.7,62.83,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 2013,34.1,13.1,27.2,38,4,18.4,19,60.19,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 2013,32.1,12.1,25,31.7,0,20.5,0.8,48.01,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 2013,33.1,8.2,24,30.8,0,18.4,0.4,53.8,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 2013,33.1,15.2,24.8,32.3,0,20.5,7.4,57.7,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Dec) 2013,28.1,19.3,24.1,28.6,0,20.5,25.4,64.27,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 2014,32.1,17.2,25,31.7,0,20.5,3.6,59.01,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 2014,32.1,14.2,23.3,31.3,0,20.5,2.3,53.51,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 2014,29.2,15.4,23.2,28.6,0,24.1,9.2,59.2,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 2014,33.1,16.7,24.9,33.1,0.1,20.5,48.3,70.03,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 2014,34.1,18.5,26.7,32.8,0,22.3,8.6,41.85,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 2014,33.1,12.4,25.4,34.1,0,22.3,2.9,55.39,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 2014,29.2,13.7,23.1,28,0,24.1,17.3,56.54,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 2014,33.1,12.7,25.3,31.1,0,22.3,13.4,53.4,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 2014,31.7,17,25.7,34.3,0,24.1,15.1,57.4,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 2014,32.1,11.7,26,32.5,2,24.1,22.9,63.14,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 2014,34.1,20.3,28.3,36.2,1.2,22.3,25.6,54.82,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 2014,37.1,20.9,29.1,36.6,0,24.1,14.6,45.72,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 2014,37.6,22.6,28.7,39.6,0,24.1,7.3,57.48,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 2014,36.1,22.2,28.9,39,0,24.1,6.9,60.73,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 2014,35.9,21.8,27.8,35.2,0,22.3,21.5,64.44,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 2014,35.4,22.5,28.2,38,0,25.9,30.1,66.91,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 2014,37.2,21.2,31,42,6,24.1,15.1,57.62,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 2014,36.4,25.2,30,39.4,0.7,24.1,25.9,67.51,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 2014,35.1,24.4,30.4,44,3,24.1,38.9,65.37,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 2014,35.4,23.7,29.8,40.8,2,24.1,40.9,65.28,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 2014,35.8,26.3,30.6,44,0,24.1,45.1,67.94,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 2014,34.9,26.9,30.5,40.7,3,27.7,41.6,68.87,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 2014,35.1,27.1,31,44,5.5,24.1,57.8,72.22,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 2014,39.1,26.4,31.3,53.1,49.6,42.5,62.7,69.38,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 2014,33.1,26.4,30,42.5,28.28,30.9,77.6,76.21,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 2014,34.1,26.8,30.5,42.3,0.5,29.5,49.6,72.02,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 2014,33.1,23.7,28.8,42.5,280.9,25.9,69.3,78.66,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 2014,31.1,22.7,26.7,40.8,384.23,24.1,91.2,86.76,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 2014,30.1,23,27,39,319.76,33.5,94.4,87.82,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 2014,32.1,22.9,27.9,40.8,186.32,33.5,83.2,86.12,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 2014,31.1,22.7,26.6,39.3,394.65,33.5,95.6,91.81,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 2014,31.1,22.2,26.9,39.3,177.79,31.7,88.9,88.88,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 2014,31.1,21.9,27.7,37.9,28.9,33.5,82.5,83.87,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 2014,32.1,22.4,27.9,42.5,162.35,24.1,81,86.19,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 2014,30.1,22.2,26.6,39,145.55,24.1,92,90.22,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 2014,31.1,22.1,26.6,39,185.15,29.5,90.5,90.33,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 2014,30.1,21.9,27.1,37.6,22.6,25.9,75.5,85.62,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 2014,31.1,22.1,27.5,36.7,22.69,24.1,66.1,82.63,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 2014,36.1,21.1,28.5,45.1,83.2,18.4,48.1,77.44,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Oct) 2014,36.1,24.3,29.9,47.5,24.5,24.1,46,71.61,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 2014,37.1,21.1,29.6,45.5,8,35.3,42.4,70.1,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 2014,37.1,23.5,30.3,43.5,3,20.5,20.5,66.88,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 2014,37.1,22.2,29.6,42.3,7.3,18.4,46.7,58.35,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 2014,35.1,15.4,28.2,35.9,0,20.5,29.9,59.59,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 2014,35.1,20.1,29.1,37.4,0,22.3,9.3,53.72,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 2014,35.1,22.2,29,39.5,18.76,20.5,50.3,64.98,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 2014,35.1,16.2,29.1,39.5,1.1,20.5,23,61.28,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 2014,34.1,12.7,27.4,35.4,0,18.4,9.2,54.55,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 2014,34.1,15.1,27.4,34.7,17.27,20.5,14,47.52,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 2014,34.1,13.4,26.5,36.3,109.3,20.5,26.8,63.48,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 2014,32.1,14.1,24.5,30.6,0,24.1,21.5,42.99,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 2014,32.1,12.1,24.4,30.9,0,22.3,9.5,51.86,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Dec) 2014,30.1,9.9,23.5,28.6,0,20.5,15.1,58.79,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 2015,30.1,15.7,23.5,30.5,0,18.4,27,63.68,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 2015,32.1,11.7,24.9,31,0,20.5,5.5,48.86,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 2015,31.1,10.7,24.1,29.5,0,18.4,4.6,51,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 2015,29.3,13.4,24.2,29,0,22.3,30.7,61.91,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 2015,33.1,14.4,25,32,0,22.3,12.6,55.23,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 2015,34.1,11.7,25.4,31.8,0,22.3,17.7,54.26,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 2015,32.1,15.7,26,31.8,0,22.3,2.9,53.2,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 2015,38.1,12.2,26.9,36.4,0,22.3,0.9,56.63,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 2015,35.1,16.1,25.4,35.9,37.21,24.1,23.2,64.91,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 2015,34.1,16.2,25.6,33.7,3.35,24.1,10.1,51.2,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 2015,37.1,21.3,28.5,38.2,2.9,22.3,20.7,54.87,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 2015,37.1,20.5,29.1,37.4,0,22.3,18.2,50.99,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 2015,41.1,24.6,30.2,44,3.2,22.3,36.4,66.2,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 2015,35.1,22.4,29.1,42,0,24.1,14.2,54.9,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 2015,34.1,22.6,28,34.7,0,22.3,17.7,65.2,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 2015,39.7,20.1,30.5,42.5,0,24.1,29.7,69.78,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 2015,35.9,25.1,31.4,45.5,4.6,25.9,29.4,66.07,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 2015,37.1,26.4,31.2,45.9,106.4,27.7,38.3,70.77,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 2015,34.3,27.4,31,42.3,0,24.1,40.8,70.17,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 2015,35.4,27.2,31.3,45.5,0.5,24.1,46.3,71.55,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 2015,35.1,22.2,31,45.5,37.2,27.7,50.2,68.97,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 2015,35.1,24.6,29.2,43.5,218.1,27.7,67.1,78.41,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 2015,30.1,22.6,26.2,37.6,739.56,24.4,94.8,90.71,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 2015,32.1,23,28.6,39.3,150.59,37.1,81.3,82.48,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 2015,32.1,24.4,29.3,40.8,8,29.5,59.1,76.1,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 2015,32.1,24.1,29.4,40.8,12.66,31.7,70.7,77.85,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 2015,32.1,24.4,29.3,40.8,18.22,29.5,66.5,77.66,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 2015,31.1,22.9,27.7,39.3,176.68,27.7,92.9,85.62,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 2015,31.1,22.7,27.8,39.3,78.38,44,82.5,82.33,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 2015,31.1,23,27.9,39.3,42.99,27.7,84.8,82.4,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 2015,31.1,22.1,27.4,37.9,33.5,25.9,84.5,83.37,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 2015,31.1,24.1,28.5,39.3,15.6,29.5,63.1,79.19,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 2015,31.1,22.2,27.5,37.9,46.13,24.1,79.1,83.22,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 2015,32.4,23.5,28.2,38,12.3,25.9,54.3,75.47,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 2015,31.7,24.2,28.2,39.3,162.34,22.3,73.8,78.17,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 2015,32.1,22.4,28.3,39.3,143.03,25.9,85,82.67,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 2015,32.1,21.4,28.1,39.3,16,29.5,51.7,76.71,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Oct) 2015,37.1,24.2,29.8,43.5,47.75,22.3,50.3,71.69,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 2015,36.1,24.8,29.8,46.9,22.41,20.5,45.5,74.77,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 2015,37.1,24.4,30.9,45.5,25,20.5,34,65.79,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 2015,37.1,22.2,31.2,45.5,0.7,18.4,29.7,62.1,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 2015,35.1,20.4,29.6,40.7,0.1,18.4,41.7,59.5,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 2015,36.1,22.7,29.9,39.3,0,18.4,17.4,57.17,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 2015,36.1,15.4,29.2,35.9,0,20.5,21.5,48.97,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 2015,32.4,13.7,23.3,32,19.4,16.6,31.7,60.91,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 2015,31.1,19.1,24,32.2,90,5.4,46.4,79.34,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 2015,31.1,15.7,23,31.3,0,5.4,8.9,73.88,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 2015,32.7,13.4,22.3,32,0,9.4,30,68.02,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 2015,32.4,15.1,23.1,32.9,0,3.6,8.9,68.8,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 2015,30.4,0.9,19,29.6,0,9.4,9.6,62.78,,FALSE
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Dec) 2015,31.7,10.2,21,29.9,0,7.6,7.7,55.34,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 2016,35.1,12.1,26.7,33.7,0,18.4,16.6,44.82,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 2016,34.1,18.4,26.4,32.7,0,16.6,10.6,48.24,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 2016,32.1,18.6,24.4,32,0,25.9,15,59.86,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 2016,33.1,15.1,24.4,31.2,0,22.3,6.2,41.99,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 2016,32.1,16.3,25.4,34.3,0,22.3,6.1,54.5,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 2016,33.4,16,25,32.3,0,22.3,11.1,57.34,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 2016,31.1,17.6,24.7,31.4,0,24.1,13.4,62.6,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 2016,32.1,20.5,26.8,33.8,0,24.1,27.9,57.86,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 2016,33.1,20.7,26.8,38.2,0,25.9,25.7,61.04,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 2016,35.1,22.4,28.9,39.5,12,20.5,28.9,57.56,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 2016,35.1,21.9,28.7,40.1,0,24.1,21.7,54.15,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 2016,37.1,20.8,28.8,39.4,0,25.9,9.1,60.22,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 2016,37.5,21.5,29.9,41.6,0,24.1,14.6,58.61,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 2016,35.7,23.4,29.1,41.5,0,22.3,20.4,64.79,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 2016,36.1,24.5,29.9,41.7,1,25.9,32,60.94,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 2016,36.1,24.3,29.8,41.5,0,27.7,10.6,63.75,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 2016,35.5,25.4,29.6,40.8,0,24.1,36.5,67.35,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 2016,38.1,24.3,30.5,42.4,0,24.1,27.2,63.64,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 2016,34.8,25.2,30.1,41.6,0,24.1,38,69.26,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 2016,35.1,26.8,30.7,45.4,2,25.9,41.9,71.94,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 2016,35.5,27.9,31.2,45,0,26.9,49.5,72.3,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 2016,34.4,28.3,31.4,43.9,3.3,25.9,47.9,70.55,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 2016,35.5,26.7,31.5,45.5,73.2,25.9,49.7,68.89,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 2016,34.4,26.1,31.1,44,26.23,24.1,64.2,73.39,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 2016,34.2,24.6,30.9,44,28.7,25.9,59.2,72.33,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 2016,31.1,24.6,27.3,39.3,438.22,24.1,90.4,87.24,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 2016,31.1,24.4,26.9,40.6,673.89,27.7,96.5,91.52,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 2016,31.1,24.9,27.9,39.3,401.57,37.1,96,86.63,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 2016,30.1,24.9,27.6,39,243.53,35.3,89.9,86.9,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 2016,30.1,24,26.9,37.6,252.53,27.7,92.7,88.06,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 2016,29.1,23.4,26.4,35.8,250.41,22.3,93.9,89.91,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 2016,30.1,24.4,27.3,37.6,749.4,37.1,95.1,87.69,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 2016,30.1,24.7,27.9,37.6,247.43,33.5,88.1,83.51,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 2016,30.1,25.4,28.2,37.6,43.07,27.7,79.5,80.65,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 2016,30.1,24,26.9,36.3,295.51,25.9,89.4,87.66,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 2016,31,24.6,27.6,36.3,135.37,25.9,74.5,82.75,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 2016,30.5,23.7,27.6,35.4,48.4,24.1,64.4,77.39,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 2016,31.1,24,27.1,36.7,348.42,25.9,88.4,85.87,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 2016,29.1,23.8,26.5,34.7,377.65,22.3,93.7,89.93,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Sep) 2016,31.1,23.6,27.3,37.6,73.33,22.3,66.8,83.38,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 2016,31.1,23.2,26.6,37.6,95.56,22.3,73.8,86.96,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 2016,34.1,24.2,28.6,40.8,0,22.3,47.9,75.13,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 2016,36.1,23.6,29.4,40.7,0,20.5,44.2,61.45,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 2016,35.1,21.6,28.3,36.9,0,22.3,19.1,56.75,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 2016,36.1,20.2,28.6,37.8,0,20.5,4.2,46.31,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 2016,35.1,18.4,27.4,34.7,0,18.4,3.4,44.98,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 2016,35.1,18.2,28.2,39.6,0,18.4,12.4,50.55,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 2016,35.1,18.2,27.5,35,0,16.6,3.7,44.72,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 2016,36.1,19.6,27.7,39,0,18.4,5,54.18,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 2016,34.1,16.4,26.7,36.6,0,18.4,9.4,50.65,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 2016,34.1,16.4,28.1,35.6,0,20.5,16.9,48.47,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 2016,33.1,18.5,26.2,33,0,18.4,7,52.91,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 53 (Dec) 2016,34.1,17.8,26.2,33.7,0,20.5,0.7,47.28,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 2017,30.1,18.6,25.6,30.1,0,14.8,1.4,55.21,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 2017,33.1,16.9,24.8,31.4,0,24.1,5.5,56.89,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 2017,31.1,14.9,23.7,34,0,22.3,6,55.91,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 2017,33.1,19.4,25.8,35,0,20.5,11.2,52.76,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 2017,35.1,17.2,27.6,34.8,0,22.3,3.1,43.54,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 2017,34.1,20.2,26.3,33.4,0,20.5,5.1,55.2,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 2017,34.1,18.1,25.2,33.4,0,18.4,2.8,53.07,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 2017,39.1,19.9,29.4,37.3,0,20.5,3.7,39.76,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 2017,38.1,20,28.4,42.1,0,24.1,5.4,50.14,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 2017,37.1,20.1,28.7,39.5,0,22.3,2.5,45.76,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 2017,32.7,19.1,26.7,38.1,0,25.9,13.8,58.03,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 2017,36.1,19.2,28.1,38,0,24.1,3.4,50.51,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 2017,36.8,21.3,29.3,42.5,0,27.7,5.2,63.33,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 2017,39.1,25.4,30.1,45.9,0,25.9,24.1,67.8,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 2017,37.1,21.8,29.4,45.9,0,22.3,19.8,62.85,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 2017,37.2,24,30.6,48.1,0,22.3,9.6,65.57,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 2017,36.7,25.5,30.1,45.9,0,24.1,21.3,68.09,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 2017,34.7,25,29.6,42.1,0,29.5,24,65.5,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 2017,35.1,24.9,30.4,44.6,0.2,25.9,26.3,71.39,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 2017,40.1,25.7,31,46.6,19.6,25.9,37.3,69.75,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 2017,34.8,27,30.8,42.4,0,27.7,40.2,68.85,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 2017,36,27.3,31.1,43.7,0,27.7,43.9,69.85,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 2017,35.7,24.8,31.1,53.8,19.4,33.5,54.2,73.23,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 2017,34.1,22.2,29,45.5,167.01,27.7,71.3,78.52,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 2017,33.1,23.2,28.9,44,209.1,25.9,71.2,81.16,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 2017,34.1,22.2,29,45.5,293.28,33.5,70.9,79.92,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 2017,31.1,22.3,27.5,39.3,692.7,33.5,88.4,87.84,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 2017,32.1,22.4,28.7,40.8,219.08,33.5,67.7,80.91,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 2017,32.1,22.3,28,40.8,641.41,31.7,78.2,82.25,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 2017,30.1,21.2,26.5,37.6,831.43,37.1,88.8,91.23,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 2017,31.1,20.4,27.7,40.8,219.37,33.5,79,84.62,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 2017,31.1,22.3,27.9,39.3,142.99,31.7,80.2,82.9,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 2017,32.1,21.8,28,42.5,127.96,27.7,72.9,80.9,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 2017,32.1,21.2,27.1,40.8,351.17,25.9,78.2,84.94,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 2017,31.1,19.3,26.8,37.9,438.33,29.5,72.9,87.11,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 2017,32.1,21.3,26.8,39.3,584.21,46.4,72.7,87.7,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 2017,32.2,22.3,28.5,42.5,82.4,24.1,61.8,80.23,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 2017,35.1,22.2,28.4,47.5,134.4,27.7,82.2,82.39,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 2017,31.1,19.8,26.7,40.8,443.77,29.5,76.7,85.93,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Oct) 2017,34.1,22.3,28.8,44,57.51,22.3,57.8,80.02,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 2017,36.1,23.8,29.7,45.5,62.02,29.5,51.3,74.33,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 2017,33.1,22.3,27.8,42.5,265.44,20.5,76.4,84.65,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 2017,34.1,22.1,29,45.5,2.61,37.1,52.2,78.09,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 2017,36.1,22.8,29.4,40.7,0,20.5,19.7,58.69,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 2017,35.1,21.5,28.9,35.2,0,22.3,8.5,44.88,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 2017,35.1,20.9,28.4,39.5,0,20.5,4.9,52.68,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 2017,34.1,19.4,27.3,34.7,0,18.4,11.6,50.4,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 2017,34.1,20.2,28,39.5,13,16.6,17.3,56.64,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 2017,34.1,17.4,27.4,33.1,0,18.4,11.5,50.49,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 2017,32.1,17.3,25,33.7,38.83,20.5,51.3,77.6,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 2017,32.1,18.2,25.1,33.1,0,18.4,17.4,64.75,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 2017,33.1,18.8,26.3,33.1,0,18.4,35.9,46.73,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Dec) 2017,33.1,17.3,25.4,34.5,0,74.2,4.9,53.5,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 2018,31.1,17.5,24.2,31.7,0,18.4,0.9,56.53,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 2018,34.1,17.1,26.2,35.2,0,18.4,10.2,54.72,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 2018,35.1,19.2,27.7,37.4,0,22.3,9.9,49.51,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 2018,31.1,17.3,24.7,30.2,0,20.5,3.3,51.97,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 2018,35.1,18.1,26.8,35,0,20.5,1.3,46.94,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 2018,34.1,19.1,25.8,33,0,22.3,26.1,56.2,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 2018,34.1,17.2,27.1,35.4,0,24.1,6.7,48.9,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 2018,37.1,20.2,28.5,37.5,0,22.3,3.1,48.35,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 2018,38.1,22.6,29.6,42.2,0,20.5,7,49.52,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 2018,38.1,23.6,29.1,42.2,0,25.9,18.7,52.31,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 2018,39.1,23.7,29.5,36.7,3,22.3,43,45.09,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 2018,41.1,21.3,28.4,42.4,0,27.7,10.4,59.01,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 2018,38.4,23,29,39.3,0,25.9,26,66.06,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 2018,34.4,24.2,29.4,39.5,0,25.9,8.9,62.18,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 2018,34.7,24.3,29.4,40.7,0,27.7,18.9,65.92,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 2018,37.3,23.3,30.8,43.7,30,25.9,15.4,63.55,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 2018,36.1,23.3,29.8,39.5,0,25.9,17.5,64.84,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 2018,35.4,25.2,30.1,40.7,0,25.9,30.6,67,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 2018,35.5,23.3,30.6,42.3,0,24.1,24.9,66.33,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 2018,35.5,23.4,30.9,44,0,24.1,35.2,68.54,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 2018,35.7,23.4,30.8,45.5,0,25.9,46.1,67.47,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 2018,35.6,23.3,30.8,45.5,8,27.7,56,72.01,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 2018,33.7,23.2,29.3,45.9,166.05,33.5,75.6,80.41,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 2018,33.1,21.3,29.2,42.5,112.3,35.3,62.4,78.77,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 2018,33.1,21.3,28.1,42.5,383.39,27.7,78.7,83.76,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 2018,32.1,22.1,27.7,40.8,541.73,29.5,75.2,85.05,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 2018,31.1,21.3,27,40.8,899.05,29.5,85.3,88.67,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 2018,31.1,22.3,27,40.8,820.05,35.3,89.2,89.47,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 2018,31.1,21.3,27.2,39.3,630.75,37.1,84.1,86.34,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 2018,31.1,21.4,27.4,39.3,137.76,33.5,83,84.17,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 2018,30.1,21.7,27.6,37.6,138.43,31.7,81.5,82.94,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 2018,30.1,21.3,27.2,36.3,229.62,29.5,82.1,84.3,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 2018,30.1,21.3,26.8,36.3,382.77,31.7,84,86.57,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 2018,30.1,20.6,26.5,36.3,476.64,29.5,83,86.46,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 2018,30.1,21.1,27,36.3,96.18,27.7,66.4,82.04,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 2018,30.1,21,27.2,35.2,48.17,27.7,57.4,77.4,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 2018,31.1,21.1,27.2,37.9,33.22,24.1,52.4,77.38,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 2018,31.3,20.4,27.6,39.3,37.6,25.9,68.6,80.07,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 2018,36.1,22.4,29.2,42.5,84.48,25.9,60.5,73.87,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Oct) 2018,37.1,24.2,30.6,43.3,23.5,22.3,45.4,62.82,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 2018,37.1,23.3,30.4,45.5,0,22.3,27.7,69.83,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 2018,37.1,23.3,29.7,42.3,23.59,22.3,40.6,65.94,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 2018,38.1,21.7,30.4,42.1,0,18.4,15.7,50.34,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 2018,36.1,21.5,29.6,40.8,7,20.5,17.2,49.87,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 2018,36.1,21.3,29.8,40.7,16.65,22.3,16.6,53.21,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 2018,35.1,21.1,28.4,35.8,0,22.3,0.8,54.62,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 2018,35.1,22.4,28.7,35.9,0,22.3,11.8,50.44,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 2018,34.1,20.3,27.8,34.8,0,18.4,14.1,46.85,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 2018,33.1,20.4,27.4,34.7,0,18.4,22,49.78,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 2018,32.1,17.4,25.7,31.1,0,25.9,5.6,45.87,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 2018,33.1,16.6,24.9,32.3,0,20.5,3.8,47.09,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 2018,32.1,15.4,24.7,32,0,22.3,14.7,39.31,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Dec) 2018,30.1,17.3,24.6,28.6,0,14.8,10.9,36.26,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 2019,32.1,17.9,24.8,30.8,0,23.2,5.1,46.05,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 2019,31.4,17.9,24.3,30.3,0,21.1,0.6,48.58,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 2019,33.8,19,26.4,34.8,0,22.3,0.1,48.55,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 2019,29.4,15.2,23.6,29.7,0,29,8.1,52.46,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 2019,31,16.9,24.8,30.8,0,23.4,1.8,43.5,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 2019,34,14.2,24.1,33,0,30,5.7,48.93,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 2019,34.4,18.8,26.1,33.1,0,27,7.6,45.88,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 2019,33.8,18.5,26.5,34.6,0,25.7,6.6,55.14,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 2019,33,18.3,25.9,33.6,0,25.6,8,53.95,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 2019,32.1,18.4,26.1,33.3,0,27.7,9.2,59.57,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 2019,35.1,19.3,26.7,32.7,0,29,12.9,55.93,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 2019,36.7,21.5,27.9,37.5,0,26.9,2.5,54.56,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 2019,38.5,24.6,29.7,39,0,27.6,5.9,60.44,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 2019,33.9,24.2,28.7,40.1,0,28.9,15.3,68.5,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 2019,35.7,25.2,29.6,43.2,0.4,27,12.7,66.81,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 2019,34.6,23.3,29.5,39.6,0.2,28,15.5,62.26,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 2019,36,25.5,30.6,45.3,0,27.2,7.7,64.94,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 2019,34,23.1,29.6,46.6,0,29,32.3,67.35,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 2019,32.3,23.3,29.5,39.1,0,27.7,28.9,67.41,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 2019,35.7,24.3,30.1,43.7,0,26.5,24.9,68.13,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 2019,34,24.3,30.4,44.2,0,28.3,31.2,71.41,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 2019,33.6,25.3,30.6,42.2,0,27,36.3,69.9,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 2019,35,24.4,31,44.4,31,30.2,44,71.46,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 2019,34.3,22.3,29.2,45.2,119.62,73.5,57.9,79.95,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 2019,33,22.3,29.6,43.8,52.71,30.7,51.1,78.31,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 2019,33,20.8,28,42.1,715.18,36.1,60.1,84.99,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 2019,30.1,22.2,27,39.9,821.15,31.7,63,92.03,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 2019,32.3,22.3,28.1,43.3,626.25,29.5,59.8,88.27,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 2019,32,23.3,29,41.1,192.75,25.1,55.5,82.25,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 2019,33.3,22.3,27.8,43.8,823.18,33.5,62.2,87.35,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 2019,31,20.9,26.8,39.1,951.01,35.3,65.9,90.02,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 2019,30.3,21.9,27.5,37.5,377.49,35.2,60.5,87.65,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 2019,30.3,21.9,27.7,38.3,172.63,27.4,55.5,85.15,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 2019,31.3,21.9,28.1,38.1,116.83,25.4,48.8,79.91,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 2019,32.3,21.4,27.7,40,214.23,29.2,54.2,83.68,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 2019,31.3,21.3,26.4,39.5,959.24,25.9,61.1,92.4,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 2019,30,21,26.8,37.8,591.48,29,59.4,89.85,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 2019,32,21.5,27.2,39.2,412.24,92.5,56.8,87,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 2019,32,21.1,27.7,41.1,341,24.8,50.8,83.93,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Oct) 2019,33,21.8,28.3,40.6,60.8,26.6,40.7,79.32,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 2019,35,22.3,28.9,42.5,138.54,23.2,42.1,74.23,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 2019,36,20.3,29,42,65.69,22.7,37.9,65.71,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 2019,32.3,21.3,27.2,37.3,141.15,25.9,60.5,79.62,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 2019,34.7,23.3,29.1,42.9,74.72,23.6,43.7,69.27,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 2019,33.7,21.3,28.1,41.1,41.25,25.6,36.6,77.7,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 2019,34.4,23,28.9,37.9,0,19,17.6,64.28,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 2019,33.8,22.5,28.6,36.3,0,21.7,10.6,60.48,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 2019,33.4,22.8,28.5,36.7,0,37.3,9.2,60.43,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 2019,34,21.4,28.4,36.3,1,17.2,28.4,59.83,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 2019,32,19.8,26.6,33.7,0,21.1,9.8,64.25,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 2019,32.4,20,26.9,33.4,0,19.5,23.8,61.58,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 2019,33,20.3,26.9,34.3,0.1,21.7,39.7,63.56,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Dec) 2019,28.4,16.4,24.2,29.4,0,18.4,13.5,61.43,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 1999,32.1,9.4,22.9,31.3,0,11.2,2.9,58.81,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 1999,32.1,8.4,22,31.7,0,14.8,16.9,62.92,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 1999,35.1,9.1,23.6,35.3,0,14.8,1.2,57.67,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 1999,35.1,10.7,23.8,34.8,0,18.4,10.7,57.82,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 1999,32.1,9.7,23.9,32.5,0,20.5,9.5,55.64,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 1999,33.1,9.1,24.9,33.1,0,18.4,25.9,56.51,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 1999,39.1,11.6,26.3,40.5,0,16.6,16.4,56.12,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 1999,37.1,15.9,28.2,38.7,0.3,20.5,23.1,51.81,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 1999,39.1,14.4,29.3,39.9,0,20.5,7.7,46.62,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 1999,37.1,17.7,29.6,37.5,0,24.1,25.1,48.2,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 1999,35.9,16.1,27.3,34.1,0,24.1,7,53.54,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 1999,37.4,16.1,27.7,34.8,0,27.7,12.7,50.36,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 1999,37.9,14.7,28.2,35.9,0,24.1,3.8,50.08,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 1999,40.1,17.1,29.8,41.6,0,42.5,21.6,50.57,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 1999,39.7,20.4,29.4,38,0,18.4,28.3,54.77,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 1999,39.1,18.1,29.3,38.1,0,20.5,18.3,50.04,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 1999,39.4,19.2,28.9,38.3,0,20.5,27.6,54.22,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 1999,39.9,19.4,29.3,37.3,0,22.3,38.7,53.47,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 1999,39.9,19.2,30.4,40.7,0,20.5,45.8,55.91,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 1999,37.4,22.2,30,37.3,30.3,22.3,38.7,60.47,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 1999,34.1,22.2,28.2,38.4,32.2,25.9,70.2,68.62,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 1999,32.4,23,28.3,34,1.1,22.3,59.6,63.01,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 1999,33.4,22.2,28.3,34.7,39.1,92.5,50.8,65.84,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 1999,32.4,20.7,28.3,35.9,55.8,22.3,70.4,68.61,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 1999,31.9,23,26.8,34.7,64.2,20.5,87.8,79.53,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 1999,30.1,22.2,26.4,36.3,125,24.1,86.5,84.48,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 1999,30.1,21.7,27.4,35.2,19.2,22.3,65.8,78.29,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 1999,32.7,22.1,27,36.3,37.6,24.1,83.5,81.31,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 1999,29.1,22.4,26.4,33.7,30.5,37.1,90,83.28,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 1999,29.1,21.9,26.8,33.7,49.4,25.9,88.9,80.95,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 1999,30.1,22.2,26.8,35.2,39.6,25.9,87.8,80.27,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 1999,29.1,21.9,26.4,33.7,79.9,27.7,91.8,82.01,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 1999,29.1,21.9,26.5,33.7,7.5,22.3,88.8,80.69,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 1999,30.1,19.4,26.9,34.3,1,18.4,62.5,78.29,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 1999,30.1,21.1,26.9,35.2,8,22.3,68.6,77.92,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 1999,30.1,20.7,26.4,34.3,2.7,92.5,73.4,78.6,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 1999,30.1,21.2,26.4,34.3,135.46,18.4,82,81.39,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 1999,30.2,19.1,27,34.3,26.23,18.4,68.5,77.2,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 1999,31.1,20.4,27.2,36.7,38.5,22.3,68.6,76.77,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Oct) 1999,31.1,21.9,27,37.9,498.21,13,79.4,84.38,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 1999,32.1,22.1,27.5,39.3,90.13,18.1,72.4,83.84,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 1999,33.1,22.1,27.2,38,206.7,18.4,51.5,80.47,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 1999,34.1,14.2,27,36.9,0,14.8,15.8,70.82,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 1999,36.1,20.2,28.2,39.5,0,18.4,35.1,70.3,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 1999,36.1,15.7,27.8,39.9,0,14.8,16.3,68.48,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 1999,36.1,18.2,28.3,39.6,0,14.8,12.4,66.28,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 1999,35.1,11.2,27.3,34.4,0,18.4,9.3,47.11,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 1999,35.1,18,27.2,37,0,14.8,39.6,52.67,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 1999,37.1,11.2,26.5,38.1,0,18.4,8.7,45.62,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 1999,32.1,8.1,24.5,33.7,0,22.3,8.1,60.67,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 1999,33.1,12.1,24.5,32.3,0,14.8,0.7,48.86,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 1999,34.1,14.7,26,33.7,2.8,14.8,41.4,47.73,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Dec) 1999,35.1,17.9,26.1,34.1,1.4,14.8,0.8,51.23,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 1998,35.1,15.1,27.1,39.6,0,14.8,17.7,72.03,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 1998,33.1,13.1,24.3,35.6,0,16.6,20.8,72.28,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 1998,33.1,13.4,22.8,34.7,0,27.7,24.5,73.84,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 1998,31.1,9.4,21.1,33.1,0,35.3,10,73.47,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 1998,35.1,11.1,24,38.7,0,16.6,8,69.53,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 1998,36.1,11.6,24,36.4,0,18.4,19.2,63.81,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 1998,38.1,13.1,25.2,39.9,0,13,15.1,62.32,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 1998,30.2,9.4,22.4,29.8,0,16.6,22.1,70.1,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 1998,35.1,10.2,23.8,36.4,0,18.4,9.2,61.76,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 1998,36.1,13.7,26.5,38.2,0,18.4,11.4,63.29,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 1998,35.7,12.9,25.5,35.4,0,18.4,10.1,65.87,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 1998,38.8,15.6,27.5,39.4,0,16.6,16.7,57.89,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 1998,40.1,15.7,28.3,41,0,18.4,1.3,51.61,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 1998,39.7,17.1,29.4,41.1,0,16.6,6.9,53.3,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 1998,39.7,17.7,28.5,38.5,0,14.8,16.3,60.59,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 1998,38.2,20.7,28.5,36.6,0,18.4,25.3,60.96,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 1998,39.1,18.9,28.7,37.1,0,25.9,28.9,61.6,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 1998,39.7,23.9,29.7,39.9,0.4,18.4,32.1,58.85,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 1998,42.2,23.4,31,41.2,0,18.4,31,52.37,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 1998,39.7,23.7,30.9,42,11,25.9,36.1,50.75,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 1998,38.8,23.2,30.7,47.5,10,22.3,45.1,65.88,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 1998,37.4,24.1,31.5,45.1,0,94.3,37.8,63.38,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 1998,39.7,22.7,32.2,47.5,41,33.5,44.4,62.29,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 1998,35.1,23,30.1,45.1,5.8,29.5,49.7,66.03,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 1998,34.1,23,29.6,43.7,22,53.6,68.2,71.33,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 1998,33.1,23.6,27,42.3,8.6,18.4,84.7,83,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 1998,31.1,23.2,26.2,39.3,129.1,22.3,91.1,88.62,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 1998,34.1,22.7,28.3,43.7,56.3,24.1,88.4,80.79,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 1998,32.1,23,28.4,40.8,16.5,24.1,79.4,80.26,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 1998,32.1,22.7,28.2,40.8,16.8,18.4,76.5,82.04,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 1998,32.1,20.1,26.2,39.3,115.55,18.4,92.1,87.79,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 1998,32.1,22.7,28.1,39.3,5.2,22.3,88.7,78.82,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 1998,33.1,21.9,27.1,40.7,23.2,18.4,91,85.05,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 1998,33.1,21.6,28.2,40.7,30.2,14.8,74.2,78,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 1998,33.1,22.7,27.2,42.3,84.3,25.9,89.9,84.95,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 1998,32.1,21.2,27.6,44.5,21.5,18.4,77.7,80.35,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 1998,31.1,21.9,26.7,37.9,35.5,20.5,87.3,85.16,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 1998,31.1,21.7,26.8,36.7,55.4,18.4,82.5,82.06,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 1998,34.1,20.7,27.4,39.5,21,14.8,74,77.69,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Oct) 1998,36.1,21.2,27.8,42.1,30.7,14.8,85.1,77.23,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 1998,36.1,20.7,28.3,43.3,18.1,18.4,66.5,74.9,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 1998,34.1,21.2,27.6,39.5,47.1,22.3,77.3,76.08,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 1998,32.1,16.4,26.6,36.9,0,14.8,46.6,74.02,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 1998,35.1,11.2,28.1,40.8,9,11.2,43,65.2,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 1998,36.1,20.2,28.9,43.5,23.4,14.8,57.9,72.11,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 1998,33.1,13.7,25.9,38.2,2,13,40.4,74.03,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 1998,33.1,12.9,25.3,36.2,12.1,14.8,30.2,73.04,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 1998,35.1,9.1,24.5,36.2,0,11.2,3.2,67.67,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 1998,33.1,11.2,25.6,36.2,0,13,11.2,68.09,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 1998,35.1,9.7,24.9,37.8,0,14.8,35.4,61.89,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 1998,34.1,9.1,23.9,33.7,0,13,30.8,56.73,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 1998,32.1,8.1,23.3,32,0,13,5,59.19,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Dec) 1998,35.1,7.7,23.3,34.8,0,14.8,7.3,56.37,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 1997,31.1,10.1,22.2,30.4,0,16.6,10.7,62.02,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 1997,33.1,10.7,23.8,33.5,0,18.4,31.9,58.2,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 1997,32.1,8.7,22.7,30.9,0,22.3,21.2,60.19,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 1997,31.4,6.2,21.2,30.7,2,22.3,8.1,63.84,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 1997,32.1,11.7,22.2,31.4,0,22.3,4.6,62.86,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 1997,31.4,8.7,22.3,29.3,0,22.3,3.8,59.96,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 1997,35.1,7.9,23.6,34.1,0,22.3,4.2,49.91,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 1997,35.1,11.4,23.9,34.8,0,20.5,6.1,58.21,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 1997,38.1,10.4,26.6,36.4,0,18.4,10.4,46.31,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 1997,38.1,14.6,27.4,37,0,18.4,32.1,46.88,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 1997,37.4,15.4,28.5,38.2,0,22.3,13.4,50.23,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 1997,38.1,12.7,27.3,37,0,29.5,26.8,52.2,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 1997,38.1,16.7,27.7,38.7,0,24.1,17.9,54.52,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 1997,35.6,12.6,26.6,33.5,0,22.3,16.9,53.29,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 1997,35.9,17.4,28.1,34.7,0.1,24.1,20.2,54.26,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 1997,35.9,16.7,28.4,37.4,0,22.3,27.2,51.92,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 1997,38.7,20.4,30,39.5,30,25.9,39.7,55.52,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 1997,37.1,18.6,29.1,40.8,4.5,22.3,39.7,53.47,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 1997,37.7,20.4,30.2,42.1,0,22.3,27.2,58.32,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 1997,39.4,19.4,30.3,39.6,0,22.3,28.4,57.92,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 1997,37.2,22.4,30.2,38.5,0,25.9,35.5,57.47,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 1997,36.2,21.1,28.9,37.4,23,22.3,38.5,60.84,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 1997,35.7,9.7,29.2,38.4,0.9,22.3,48.7,65.17,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 1997,34.6,21.6,28,35.9,201,20.5,70.7,71.71,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 1997,32.1,22.2,25.8,35,48.3,24.1,86.1,78.66,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 1997,31.1,22.4,27.2,37,43.1,37.1,85.1,79.83,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 1997,31.1,21.6,25.7,35.6,11.8,16.6,89.3,84.42,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 1997,30.1,22.6,26.7,34.3,18.1,50,87.4,77.67,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 1997,29.9,22.7,26.9,32.5,2.7,27.7,77.7,73.54,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 1997,30.7,22.2,26.3,33.4,51.4,27.7,70,74.36,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 1997,32.1,22.1,26.1,36.9,93.1,37.1,91.4,78.09,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 1997,31.1,21.4,27,35.6,24.7,25.9,77.9,76.85,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 1997,31.1,21.6,26.6,34.7,9.4,22.3,78.8,75.27,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 1997,31.1,20.2,25.9,37.9,120.1,31.3,86.1,82.36,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 1997,30.1,20.4,26.2,36.3,21.3,20.5,74.4,83.8,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 1997,32.1,19.1,27,38,32.1,16.6,56.3,79.18,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 1997,32.1,18.9,28.4,38,0,18.4,57.6,73.27,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 1997,32.1,19.9,28,39.3,0,18.4,58.7,74.7,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 1997,33.1,21.7,27.5,39.3,54.3,18.4,81,79.39,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Oct) 1997,33.1,18.4,28.2,39.4,31,18.4,30.5,70.83,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 1997,39.1,19.2,30.1,47.3,0,18.4,18.7,65.26,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 1997,37.1,17.6,29.3,43.4,9.1,20.5,30.6,65.45,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 1997,36.1,17.1,28.6,43.3,14,14.8,22,68.22,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 1997,36.1,19.1,28.7,42.1,4,16.6,39.3,67.92,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 1997,37.1,16.7,29.9,42.2,0,16.6,29.2,59.25,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 1997,35.1,19.2,27.8,39.6,68.6,20.5,59.7,69.43,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 1997,34.1,17.4,27.7,37.4,5.5,14.8,26.2,64.62,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 1997,34.1,17.4,27.6,38.4,90.2,14.8,44.7,66.65,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 1997,34.1,17.9,27.3,36.6,39,63,38.6,66.81,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 1997,33.1,11.6,24.6,36.2,24.2,16.6,33.1,77.35,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 1997,33.1,13.7,25.1,38.2,0,16.6,27.2,76.59,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 1997,31.1,10.2,23.9,34.7,0,14.8,23.3,71.64,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Dec) 1997,32.1,16.7,25.2,36.9,0,16.6,30.4,77.57,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 1996,30.1,14.1,21.2,29.9,0,7.6,46.3,72.43,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 1996,30.7,11.4,21.2,29.2,0,7.6,21.7,65.7,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 1996,30.6,8.4,19.7,29.1,0.4,11.2,17.3,64.77,,FALSE
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 1996,31.7,12.4,21.1,30.3,0,5.4,5.1,62.82,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 1996,35.1,13.1,24.8,35.3,0,18.4,11.6,59.51,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 1996,35.1,9.2,24.8,36.4,0,22.3,21.1,58.22,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 1996,36.1,10.4,25.2,36.4,0,18.4,15.4,56.19,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 1996,34.4,12.1,25.4,34.6,0,22.3,13.9,59.89,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 1996,35.1,13.1,25.6,34.7,0,22.3,4.2,55.61,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 1996,39.1,13.2,26.8,39.9,0,20.5,0.6,55.66,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 1996,37.9,18.9,29,39.5,50,22.3,32,66.65,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 1996,38.1,18.2,29.5,39.6,0,22.3,13,54.32,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 1996,37.9,15.9,28.2,35.5,0,22.3,9.3,51.27,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 1996,37.7,16.1,28.6,38.1,0,22.3,13.2,48.24,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 1996,38.1,18.9,29.2,39.4,1,27.7,24.9,54.3,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 1996,37.1,19.1,28.8,39.4,0.7,22.3,26.8,65.84,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 1996,38.4,17.6,29,38,163,20.5,20.3,63.92,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 1996,38.1,18.1,29.5,37.6,0,22.3,22.9,61.5,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 1996,38.1,17.1,29.2,36.9,0,22.3,29,59.28,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 1996,37.2,20.4,29.2,35.6,0,22.3,24.9,56.84,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 1996,39.4,22.4,29.8,42.8,5,22.3,38.4,58.81,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 1996,40.1,23.2,30,40.5,0.1,22.3,39,55.23,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 1996,37.1,22.7,30.2,42.1,21,22.3,46.3,57.04,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 1996,37.1,20.9,28.8,45.1,134,177.5,69.5,69.59,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 1996,34.1,22.7,28,44,60.7,33.5,67.9,75.25,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 1996,32.1,22.4,28.5,38,0.1,27.7,51.9,69.36,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 1996,32.1,23,27.9,39.3,0.2,22.3,69.8,76,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 1996,31.1,22.1,27.6,38.1,87.6,18.4,81.3,80.36,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 1996,31.1,22.2,26.6,39.3,127.97,22.3,90.8,85.75,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 1996,32.1,21.9,27,39.3,121.03,85,93,81.86,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 1996,32.1,21.2,27.1,36.9,49.1,25.9,89.1,76.74,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 1996,31.1,22.1,27.2,37.6,10.2,24.1,87.1,78.48,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 1996,32.1,21.7,27.3,40.8,42.1,20.5,80.7,80.1,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 1996,32.1,20.4,27.4,39.3,13,18.4,73.8,79.26,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 1996,32.1,20.2,26.9,38,27.8,22.3,83.7,80.41,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 1996,31.1,21.1,26.7,37.9,19.2,18.4,77.2,80.86,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 1996,30.1,20.9,25.8,36.3,18,14.8,80.1,84.36,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 1996,31.1,18.7,26.7,37.9,15.3,16.6,62.1,79.6,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 1996,32.1,21.4,27.1,40.8,68.8,14.8,72.2,81.05,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Sep) 1996,31.1,20.2,26.2,37.9,147.14,22.3,75.3,83.28,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 1996,35.1,14.9,28,38,0,18.4,30.7,66.52,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 1996,34.1,13.9,27.3,35.9,12,20.5,34.8,56.24,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 1996,32.1,18.9,26.6,38,31,29.5,83.5,76.02,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 1996,33.1,13.7,26,36.7,1,14.8,23.5,67.25,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 1996,33.1,12.6,25.2,34.1,3,18.4,25.7,62.89,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 1996,33.1,11.7,25.5,36.2,0,18.4,19.1,62.33,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 1996,35.1,11.1,25,37.8,0,14.8,22.6,59.84,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 1996,35.1,10.9,25.1,37,0,13,4,57.8,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 1996,33.1,10.1,23.8,33.1,0,18.4,10.3,55.49,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 1996,34.1,8.1,24.5,34.6,0,16.6,21.6,51.21,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 1996,34.1,10.9,26.1,34.6,0,14.8,59,50.96,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 1996,33.1,11.4,23.7,32.7,0,16.6,24.2,56.49,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Dec) 1996,31.1,11.9,23.2,30.4,0,14.8,5.3,57.05,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 1995,29,13.3,20.8,28.2,0,7.3,2.6,58.28,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 1995,29.3,12.3,21,28.5,17.5,8.8,35.4,68,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 1995,28.6,11.4,19.7,28.5,0,17,2.9,61.14,,FALSE
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 1995,29.5,13.9,21.2,29,0,13.5,6.9,60.58,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 1995,30.8,12,21.3,29.5,0,11.5,7,51.79,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 1995,32.4,15.8,23.5,31.4,0,14.8,22.4,55.93,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 1995,32.6,18.4,25.3,32.8,0,10.3,7.4,58.18,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 1995,29.4,15.1,22.6,28.7,0,15.3,9.6,58.91,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 1995,33.1,14.7,23.5,30.7,0,15.9,10.6,53.03,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 1995,33.4,16.7,24.4,31.7,0,14.7,6,55.44,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 1995,33.5,18,25.1,32.5,0,16.5,34.1,45.6,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 1995,33.3,19.8,26.3,33.3,0,14.8,39.4,58.5,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 1995,37.1,20.5,28.1,36.1,0,12.4,34.3,52.38,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 1995,32.6,19,25.6,32.2,0,14.8,11.8,64.32,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 1995,35.7,19.7,27.6,35.3,0,14.8,8.7,52.56,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 1995,34.7,20.5,28.2,37.9,0,14.8,23.9,56.42,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 1995,36.5,22.7,29.2,38.1,10,13,33.8,57.78,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 1995,38.7,22.1,30.4,42.4,24.4,12.3,41.5,54.48,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 1995,36.5,24.7,30.2,39.9,4.5,14.8,32,61.02,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 1995,34.1,26.2,29.6,39,90.1,16,67.7,67.64,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 1995,33.3,25.2,29.6,39.2,0,21.1,45.2,62.86,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 1995,36.1,24,29.4,41.7,12,16.6,50.1,65.91,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 1995,35.3,26.5,30.8,41.1,0.4,13.5,55.1,66.54,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 1995,34.4,26.1,30.3,41.1,2,15.3,54.4,64.62,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 1995,35.9,24.4,29.6,43,32.05,17.7,68.6,71.27,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 1995,33,24.4,29.2,41.9,21.7,18.5,67.3,73.28,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 1995,33.2,24.7,28.8,42.4,38.06,20.4,81.1,76.28,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 1995,33.2,25.2,28.7,38.7,59.9,17.1,71.3,73.76,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 1995,29.3,22.6,26.4,33.9,263.04,18.4,93.9,86.59,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 1995,29.2,19.9,26.3,35.4,279.3,40.1,94,87.5,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 1995,29.9,24.9,26.9,35.3,71.98,17.7,86.4,85.69,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 1995,29.4,22.7,27,35,228.47,18.5,84.4,83.4,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 1995,30.4,24.9,27.5,37,10.8,18.5,76.9,81.09,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 1995,31.6,25.2,27.6,37,13.9,17.1,66.5,77.89,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 1995,32.2,24.7,27.9,41.1,24.22,15.4,65.4,78.02,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 1995,29,23.8,26,33.5,481.31,21.4,91.9,88.34,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 1995,30.4,22.2,26.2,34.2,43.86,14.1,65.9,81.32,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 1995,30.9,23.1,26.6,37.1,106.9,14.6,76.7,84.19,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 1995,30.9,20.6,26.7,36.2,21.1,12.9,60.4,80.1,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Oct) 1995,31.2,23.3,26.8,37.6,59.45,9.2,69.6,82.93,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 1995,33.1,23.2,27.4,39.6,33.68,9.9,62.7,79.04,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 1995,32.6,21.4,27.6,38.7,33.7,12.1,69,76.47,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 1995,34.9,20.5,26.8,36.2,11.9,11.2,45.1,76.14,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 1995,33.6,19.7,26.9,36.9,0.6,13.9,23.7,60.41,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 1995,33.5,15.1,25.1,32.8,0,11.2,4.4,58.64,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 1995,33,16.2,24.7,34,0,14.6,8.7,63.54,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 1995,33.6,13.7,24,33.6,0,9.7,4.7,58.99,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 1995,31.3,14.1,24.6,33,1.1,10.9,33.7,65.37,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 1995,31,14.1,23.7,31.8,0,9.9,30.6,68.72,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 1995,31.5,14.1,23,31.6,0,11.5,7.2,59.34,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 1995,31.7,15.3,23.3,32.2,0,42.5,0.4,61.44,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 1995,33.4,13.1,22.8,32.7,0,12.3,6.5,61.88,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Dec) 1995,31.6,14.9,23,30.9,0,12.7,35.4,64.08,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 1994,31,13.2,22.8,30.9,0,10.9,6.5,69.49,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 1994,31.7,12.6,22.8,30.8,0,10.9,6.1,65.17,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 1994,30.3,5.1,21,29.9,17.17,16.5,35.3,67.04,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 1994,31.6,11,21.9,31.4,0,13.3,16.8,65.21,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 1994,32.3,16.8,24.3,32.8,0.3,14.8,5.7,60.45,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 1994,32.1,10.9,22.3,30.9,0,14.8,9.9,57.27,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 1994,29.6,11.9,22.2,29.5,0,15.2,9.4,60.58,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 1994,31.1,14.5,23.3,30.2,0,20.5,12.4,63.26,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 1994,33.4,16.1,23.7,32.3,30,15.9,10.7,53.32,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 1994,33.7,15.9,25.9,32.4,0,14.8,6.2,52.82,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 1994,34.7,17.4,26.5,34.4,0,14.8,6.1,52.1,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 1994,38.4,19.9,28.6,38.1,0,13.9,22.3,62.35,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 1994,36.5,16.1,27.7,36,0,14.6,2.6,55.92,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 1994,38.1,21.3,28.1,37.5,0,14.6,21.6,59.63,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 1994,33,20.2,27.3,36.2,28.35,14.8,25.7,64.59,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 1994,35.1,22.7,28.9,38.5,2,13.9,25,58.69,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 1994,34.6,19.4,28.4,35.4,0,16.7,13.4,58.96,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 1994,37.9,22.1,28.6,38.6,26,16.6,27.3,63.34,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 1994,34.5,23.1,28.8,37.4,0,16,28,65.42,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 1994,36.8,24.5,30,39.7,0,19.2,30.8,63.7,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 1994,35.6,24.7,29.8,38.8,0,16.6,30.3,62.7,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 1994,34.5,25.5,29.5,40.3,26.2,18.5,66.2,69.9,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 1994,36.4,24.5,29.4,41.2,97.32,14.8,71.3,74.2,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 1994,33.2,24.4,27.8,38.2,263.33,20.8,73.9,78.27,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 1994,29.8,23.7,26.9,35.6,178.49,18.4,89.1,86.03,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 1994,31.1,23.6,27.9,39.7,10.33,19.1,81.8,80,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 1994,29.9,22.6,26.6,37.9,236.99,18.4,91.3,86.47,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 1994,29.4,22.6,26,35.5,199.18,18.4,87.7,86.76,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 1994,28.7,23.7,25.9,33.4,403.26,25.2,95.4,88.91,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 1994,28.9,22.2,25.7,33.3,202.12,20.5,97.2,89.86,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 1994,29.1,22.7,26.2,35.3,44.42,38.3,92.8,85.79,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 1994,29.7,22.2,26.7,36.4,9.47,18.4,88.5,81.63,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 1994,31,24.1,26.3,35.5,96.73,19.2,90.1,82.49,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 1994,28.9,22.2,26,33.4,43.74,18.4,86.5,84.85,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 1994,29.4,22.2,25.4,34.7,271,19.6,94.1,88.22,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 1994,28.3,21.6,25.1,32.5,254.37,17.7,93.1,90.34,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 1994,29.1,22.7,25.3,34.3,84.74,20.1,91.5,88.29,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 1994,29.7,21.6,25.1,34.7,96.7,10.5,72.4,83.37,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 1994,32.5,19.9,25.7,36.2,21.4,14.7,42.4,76.71,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Oct) 1994,34.9,21.4,27.5,39.4,0,12.1,38.8,72.77,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 1994,33.7,22.1,27.4,37.3,11.09,7.6,63.5,79.14,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 1994,33,21.7,27,36.2,121.8,9.2,43.3,75.19,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 1994,34.2,22.7,27.3,43,53.46,10.9,63.1,73.55,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 1994,33.6,18.8,26.9,37.5,0,8.7,29.9,60.73,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 1994,33.1,19,26.6,37.5,0,14.8,35,64.88,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 1994,33.2,21.2,26.7,36.4,0.5,18.4,32.5,66.62,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 1994,32.3,19.9,26.1,34,9,9.2,58.6,68.21,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 1994,31.4,15,22.9,30.3,0,9.7,8.8,55.69,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 1994,32.3,14,22.5,31.6,0,8.5,0,64.36,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 1994,32.2,14.7,22.7,32.3,0,25.9,1,65.75,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 1994,30.8,13.2,21.8,29.9,0,9.2,0,63.55,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 1994,30.9,9.1,21.8,29.6,0,9.4,17.8,47.35,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 53 (Dec) 1994,29.2,13.3,20.8,28.4,0,9.7,34.9,57.68,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 1993,31.8,14.7,22.3,31,0,7.9,18.4,64.17,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 1993,33.5,15.5,23.2,32.1,0,10.3,20.6,64.34,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 1993,30.8,10.7,22.3,30.9,7.3,13.3,12.5,63.44,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 1993,29.4,13.8,21.6,28.7,0,14.8,17.6,58.78,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 1993,31.9,14.3,22.8,30.4,0,14.8,7.2,54.47,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 1993,32.8,10.7,23.6,31,0,11.5,3.9,43.65,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 1993,33.1,14.5,23.9,31.6,0,11.5,3.7,54.47,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 1993,32.3,14,23.6,32.6,0,22.3,6.9,53.36,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 1993,31,12.8,23.6,30.4,0,15.3,7.6,57.06,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 1993,34.5,16.4,24.9,34.1,0,13.9,11.9,53.59,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 1993,34.6,20.1,26.5,34.4,1,14.8,22.5,61.58,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 1993,34,15.1,26.1,32.3,0,15.3,6.4,55.67,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 1993,32.8,16.7,26,32.4,0,20.5,21.2,56.6,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 1993,36,19.7,27.2,34.4,0,14.6,5.4,47.92,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 1993,34.3,19.6,26.9,33.4,0,17.3,7.7,52.95,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 1993,38.4,21.6,28.5,37.2,0,22.6,26.6,61.43,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 1993,34.6,22.1,29.1,37.5,0.6,12.7,23.4,60.58,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 1993,38.4,22.7,29.7,39.1,0,16.6,12.8,53.27,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 1993,39.1,22.7,29.7,38.5,0,14.7,34,59.07,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 1993,35.4,23.4,30,42.8,0,13.9,25,58.11,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 1993,37.4,22.7,30.1,42.4,1,15.9,45.6,61.89,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 1993,35.6,23.7,29.8,39.1,0,18.4,57.9,64.37,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 1993,37.7,24.4,30.4,41.2,11,18.5,50.3,65.93,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 1993,38.6,23.2,28.9,44.2,185.62,21.2,76.6,74.74,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 1993,30.7,21.7,26.2,36.3,287.95,19.1,90.5,85.59,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 1993,31.2,23.4,28.2,37.1,59.3,22.3,74.3,76.89,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 1993,31.3,22.6,27.5,37.6,139.77,14.8,77.9,81.5,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 1993,30.1,24.4,27.2,35.7,162.86,20.2,88.2,82.16,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 1993,29.2,22.4,26.4,35.1,212.19,22.3,91.7,86.97,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 1993,30.1,22.2,27.1,35.5,24.1,18.4,76.1,81.39,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 1993,29.9,21.7,25.7,35.2,331.16,22.3,91.7,85.78,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 1993,29.4,22.1,26.3,34.5,121.2,18.5,88.7,84.61,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 1993,29.4,22.9,26.6,34.7,83.43,24.1,82.8,81.91,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 1993,29.2,22.9,26.3,33.9,91.03,22.7,77.2,83.63,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 1993,30.1,22.7,26.5,34,46.92,19.1,68.9,79.51,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 1993,30.2,21.2,25.6,34.4,269.62,13.9,86.1,86.64,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 1993,29.4,20.7,25.9,33.3,62.98,15.9,72.4,81.86,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 1993,30.7,21.4,25.7,36.8,102.54,15.2,69.4,84.47,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 1993,29.3,23.2,25.7,33.9,418.41,13.9,85.8,86.2,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Oct) 1993,31.4,21.2,26.2,36.9,57,14.8,65.1,81.6,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 1993,34.2,20.4,27.3,36.4,1.4,8.5,66.3,76.42,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 1993,32.2,20.7,26.2,38.3,169.87,10.3,81.6,83.77,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 1993,31.3,18.1,25.8,35.6,148.6,13.3,68.7,82.37,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 1993,32.4,17.4,26.5,37.9,11.2,14.6,26,70.85,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 1993,32.6,15.4,24.8,33.5,0,14.6,13.3,59.45,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 1993,33.4,18.4,26.6,39.4,0.9,11.2,53.2,60.5,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 1993,31.7,20.7,26.4,36.4,4.9,12.6,51.8,78.42,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 1993,32.3,13.2,24,34.2,0,14.8,29.3,59.61,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 1993,31.2,10.7,22,29.5,21,13.9,31.3,54.7,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 1993,31.5,15.1,23.9,32.8,15,13.9,43.4,74.71,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 1993,30.4,11.1,21.5,30.3,0,7.6,16.7,63.01,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 1993,29.8,9.9,21.3,29.3,0,9.9,10.2,61.61,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Dec) 1993,30.1,12.4,21.5,30.6,0,14.8,38.8,71.56,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 1992,32.1,12.3,21.3,30.6,0,11.5,0.5,48.42,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 1992,30.6,11.9,19.9,28.7,0,12.7,5.4,60.52,,FALSE
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 1992,31.5,15.2,22.8,30.6,0,11.2,12.8,57.02,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 1992,33.9,15.4,23.3,33.4,0,11.2,0.7,55.17,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 1992,31.3,15.8,23,30,0,18.4,3.4,63.65,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 1992,30.1,15.4,22.9,30.3,0,15.3,2.4,61.08,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 1992,30.9,12.7,22.1,29.7,0,13.9,4.4,55.12,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 1992,29.3,13.8,21.8,28,0,15.3,11.2,58.92,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 1992,34.7,14.8,24,32.4,0,11.5,1.9,48.69,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 1992,33.7,17.5,25.2,32.2,0,17.7,2.4,52.85,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 1992,36.1,17.2,26.3,34.7,0,14.1,5.2,52.15,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 1992,34.2,18.3,26.8,33.9,0,14.8,0.4,52.01,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 1992,37.9,21.3,29.2,35.6,0,14.8,16.7,48.99,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 1992,33,19.4,26.9,32.7,0,15,8.8,53.49,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 1992,34.4,21.1,27.7,35.5,0,18.4,17.1,57.12,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 1992,35.1,21.9,28.3,36.6,0,14.8,11.5,52.07,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 1992,35.6,21.6,28.1,36,3,18.5,21.6,57.98,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 1992,36.9,23,29,36.7,0,15.9,30.4,63.98,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 1992,38.1,22.8,29.6,38,1,15.9,25.8,59,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 1992,36.1,22.1,29.9,40.9,0.4,20,56.7,62.86,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 1992,35.2,25.1,29.3,37.5,0,18.4,34.6,65.79,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 1992,35.4,25.5,29.9,40.2,0,20.5,44.2,67.05,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 1992,34.8,25.9,30,39.2,1.4,15.3,47.4,63.9,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 1992,34.5,26.4,30.1,40.6,24,29.5,63,67.38,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 1992,33.4,24.4,29,43,69.53,18.4,87.9,77.14,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 1992,30.9,21.9,27.5,37.1,66.32,25.9,80.6,78.88,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 1992,32.1,26.3,29,39.1,9.3,17.1,59.3,73.17,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 1992,32.1,23.8,28.1,39,160.4,17.2,67.2,75.84,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 1992,30.7,22.8,26.3,36,249.27,16.7,91.3,86.19,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 1992,29.3,23.6,27,34.8,161.05,22,89.9,84.23,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 1992,30.1,23.9,26.7,35.6,111.18,25.9,85,83.01,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 1992,30.4,23.4,26.7,38.2,121.57,14.8,87.9,87.21,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 1992,28.9,23.9,25.6,34.4,517.22,64.8,94.9,90.64,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 1992,30.1,20.5,26,36.1,103.76,18.4,81,86.12,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 1992,29.7,23.9,26.3,36,40.98,18.4,78.1,83.51,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 1992,29.1,23.7,25.5,34.7,244.98,17.2,92.2,88.15,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 1992,30.1,22.6,26.4,35.2,6.54,17.1,68.3,80.05,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 1992,31.2,21.9,26.3,36,70.1,11.5,48.6,78.18,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 1992,33.4,23.5,28,40.7,0,11.2,34.6,75.93,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Sep) 1992,32.8,22.9,27.3,38.9,151.52,17.2,68.4,80.55,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 1992,34.1,22.4,27.8,39.2,23.2,11.5,64.7,75.3,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 1992,30.7,18.6,25.6,34.1,0,11.5,37.9,78.29,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 1992,31.9,21,26.6,38.4,7.6,12.3,36.8,77.4,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 1992,33.7,18.7,25.8,38.6,0,10.9,11.1,64.96,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 1992,33.9,14.7,26,37,0,11.2,9.1,60.78,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 1992,33.6,13.7,26,35.7,0,14.8,26.7,54.86,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 1992,32.1,20.6,26.4,36.8,7,11.8,44.9,69.07,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 1992,33.1,17.1,25.5,34.1,0,12,16,64.92,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 1992,33.9,16.5,24.1,33.6,0,9.9,19.5,61.63,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 1992,31.1,15.9,23.1,29.8,0,9.4,22.1,57.69,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 1992,32.2,16.3,23.1,32.6,0,11.2,6.3,60.61,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 1992,31.1,7.9,22.4,30.7,0,9.2,3.1,59.51,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Dec) 1992,31.8,14.5,22.1,30.5,0,9.7,0.7,62.54,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 1991,29.1,9.4,18.6,28.6,0,13.5,17.1,56.25,,FALSE
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 1991,29,11.9,20.2,28,0,14.6,15.3,61.4,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 1991,30.1,13.6,21.7,29.7,0,14.6,16.6,62.65,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 1991,33.9,16.2,24.2,32,0,10.3,5,60.64,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 1991,33.2,13.1,22.7,31.5,0,16.6,1.1,55.85,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 1991,32.6,13.1,23.9,32.2,0,13.3,13.1,59.3,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 1991,30.6,15.3,23.1,29.8,0,16,6.2,53.26,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 1991,32.6,11.6,23.2,31,0,14.6,13.1,57.19,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 1991,31.4,15.1,24.1,31.8,0,16.6,10.9,59.34,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 1991,35.7,18,25,33.7,107,15.3,4.8,60.04,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 1991,33.7,17.7,26,33.4,0,16,3.7,59.12,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 1991,34.2,19.1,26.1,32.4,0,13.5,14.6,57.03,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 1991,36.7,19.7,28.7,40.8,0.8,14.8,28,56.5,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 1991,33.3,23,27.7,36,31.4,13.9,49.5,68.21,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 1991,34.8,19.1,28.2,36.7,0,15.9,13.1,61.53,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 1991,38.2,23.2,29.7,38,0,19.7,8.9,56.66,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 1991,34.9,19.4,29.1,36.5,0,18.4,21.4,62.2,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 1991,33.9,24.9,29.1,40,0,18.4,34.5,66.54,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 1991,39.2,22.9,29.3,41.3,33,15.3,31.8,69.01,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 1991,37.6,21.9,30.4,40.2,0.6,15.3,44.3,65.75,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 1991,35.8,22.4,30.6,44.6,2,16.6,31.1,66.49,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 1991,35.9,25.7,30.7,44.2,36.9,16,64.2,70.7,,False Smut
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 1991,34.1,22.1,28.1,41.3,933.77,22.3,87.2,82.99,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 1991,32.2,23.7,28.6,41.3,38.49,21.5,67.9,79.34,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 1991,31.6,23.4,28.4,39.3,54.05,25,71.8,78.45,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 1991,32,23.2,28.1,38.5,80.42,16.6,75.4,78.48,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 1991,30.3,22.7,26.9,36,151.04,20.5,87.3,82.87,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 1991,30.5,23,26.1,37.2,244.65,16.6,91.1,86.82,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 1991,29.7,24.3,25.8,38,302.53,22.3,95.2,90.41,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 1991,29.7,22.2,25.9,36.4,223.32,23.7,93.4,87.76,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 1991,28.4,21.4,26.1,33.3,49.26,20.5,91.1,86.44,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 1991,29.4,23.6,26,34.7,65.95,22.3,89.7,85.32,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 1991,29.4,22.2,25.8,34.3,108.58,22.3,92,87.1,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 1991,29.2,23.9,25.7,34.4,74.06,20.5,89.6,85.93,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 1991,29.7,20.7,26,34.7,123.55,18.4,84.6,81.4,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 1991,29.9,21.7,25.9,35.2,23.8,16,76.9,82.34,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 1991,31,21.1,26.6,34.7,11.4,12.9,50.1,78.13,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 1991,31.7,22.2,26.5,36.5,89.6,11.5,64.5,80.01,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 1991,32.1,22.4,27.4,37.6,22,13.3,70.5,79.61,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Oct) 1991,33.5,21.6,27.5,37.1,9,11.5,29.6,71.81,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 1991,31.7,21.5,26.7,36.8,0,15.3,36.1,75.63,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 1991,35.4,22.7,27.6,36.2,0,11.2,33.6,65.71,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 1991,34.4,17.6,26.6,35.2,0,9.9,25,58.7,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 1991,35.3,17.7,25.7,32.8,0,17.1,25.2,46.49,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 1991,32.5,18.2,25.8,36,0,12.7,18.6,62,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 1991,33.3,14.9,25.8,34.2,0.4,12.3,39.1,59.59,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 1991,31.5,19.2,26.2,33.8,11.2,9.9,61.2,68.12,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 1991,33.4,14.8,24.3,34.5,0,37.5,15.4,63.58,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 1991,31.5,12.7,23.4,31.4,0,9.9,15.1,61.8,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 1991,31.4,11.4,22.6,30.1,152,9.9,5.3,49.35,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 1991,30.4,15.2,22.2,29.5,0,12.3,5.6,61.64,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 1991,28.6,10.9,20,27.9,7.2,11.5,10.6,62.62,,FALSE
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Dec) 1991,26.4,13.3,19.6,30.8,0,13.9,8.2,53.82,,FALSE
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 1990,32.1,16.1,23.6,31.7,0,14.8,12.3,59.36,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 1990,40.1,11.4,23.2,38.7,0,14.8,6.5,53.45,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 1990,32.2,12.7,22.9,31.2,0,13.3,4.6,51.35,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 1990,35.1,15.8,24,32.8,0,12.1,0.8,50.7,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 1990,31.9,14.1,23.1,31.8,0,14.8,23.1,51.94,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 1990,36.1,14.6,25.2,35.2,0,13.3,23.9,52,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 1990,33,15.7,24.5,32.9,0,15.9,19.6,53.64,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 1990,29.8,8.1,22,29.2,0,17.4,7.6,53.78,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 1990,29.9,14.3,22.9,28.7,5.8,21,21.9,57.43,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 1990,30.9,17.1,23.9,30.3,0,16.5,11.8,59.73,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 1990,35.1,18.8,26.4,36.8,0,24.1,12,62.48,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 1990,35.8,15.4,26.7,34.9,0,17.2,21.6,47.86,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 1990,32.6,19.2,26.1,32.7,0,35.3,12.9,59.6,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 1990,34.3,19.6,27.1,35.7,0,22,10.4,59.16,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 1990,33.8,20.3,27.8,36.8,0,17.8,23.4,61.13,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 1990,33.8,17.7,28.1,36.1,0,16.6,16.9,61.07,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 1990,35.3,22.6,29.3,38.1,0,19.7,14,60.7,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 1990,34.3,22.7,28.9,40,7,18.7,33.4,64.64,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 1990,35.7,25.7,29.8,42.5,3.26,24.3,70.2,66.86,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 1990,33.6,23.9,29.5,40.3,11.7,20.2,53,70.2,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 1990,34.1,23.7,29.3,40.6,52.08,29.5,63.7,72.98,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 1990,32.2,22.7,27.4,37.5,102.02,11.2,68.8,79.14,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 1990,32.4,22.9,28,38.5,168.26,16,80.6,75.32,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 1990,32.3,23.9,28.1,39,289.2,44.8,81.2,80.33,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 1990,31.7,23.2,28.5,41.3,6.4,20.8,78.1,76.46,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 1990,29.9,22.1,26.2,37,373.31,22.3,94.5,89.07,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 1990,30.2,24.1,26.9,36.3,90.36,25.9,87.9,82.37,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 1990,29.2,22.6,26.8,35.4,110.36,25.4,87.5,82.8,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 1990,28.1,22.4,25.7,31.6,196.52,19.1,92.3,86.8,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 1990,28.8,21.4,26.5,33,145.3,20.9,89.3,82.74,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 1990,28.8,23.4,26.2,33.7,70.15,18.4,88.5,84.8,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 1990,28.7,22.2,25.7,34,223.83,22.3,93.3,89.34,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 1990,29.1,21.4,25.3,35,348.94,22.3,96,90.72,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 1990,29.4,22.1,25.3,35.5,229.21,24.1,92.2,89.14,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 1990,29.2,22.4,25.9,34.4,40.03,15.9,84.7,83.41,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 1990,29.2,22.7,26,34.3,116.72,17,80.8,86.16,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 1990,30.1,21.1,26.1,35.9,35.8,14.6,66.3,83.25,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 1990,30.5,22,26.1,35.5,46,12.9,68.1,81.6,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 1990,29.9,22.9,25.5,34.6,325.44,13.9,83.6,86.24,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Oct) 1990,31.7,22.4,26.6,38.9,16.8,14.8,65,80.24,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 1990,29.8,22.7,25.9,34.4,145.03,12.6,81.1,87.42,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 1990,33.5,16.4,26.4,39.6,0,12,12.7,66.8,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 1990,32.9,21,27,36.9,18.2,18.4,58.7,73.11,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 1990,32.5,17.8,26.3,36.4,41.8,12.3,35.5,67.26,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 1990,31.6,17.8,24.9,33.3,0,14.8,25.8,66.91,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 1990,32.7,17.9,26.1,35.3,0.7,12.9,48,64.39,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 1990,31.4,19,25.9,35,9.9,12.1,35.7,69.95,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 1990,32.2,19.7,26.4,37.2,13,65.6,31.4,68.44,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 1990,34.2,17.1,25.5,35.2,0,12.3,40.7,67.94,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 1990,32.7,14.1,23.6,33,0,11.5,19.4,62.75,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 1990,30.4,11.7,22.6,30.4,0,12,16.8,61.41,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 1990,30.9,11.4,22.6,30.4,0,14.8,22,63.76,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Dec) 1990,24,14.2,19.9,31,0,12.3,50.9,65.21,,FALSE
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Jan) 1989,32.1,14.7,23.2,31.4,0,9.4,0,55.32,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 2 (Jan) 1989,30.7,10.2,21.8,29,2,18.4,12.8,60.61,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 3 (Jan) 1989,31.1,14.2,21.7,30.7,0,16.6,11.2,60.84,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 4 (Jan) 1989,30.4,13.4,21.2,29.5,0,14.8,24.5,54.91,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 5 (Jan) 1989,32.9,13.1,22.7,32.5,0,11.5,17.8,59.62,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 6 (Feb) 1989,33.9,13.7,24.6,34.3,0,14.8,0.4,49.48,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 7 (Feb) 1989,29.5,13.2,21.9,29.1,0,14.8,0,50.97,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 8 (Feb) 1989,31.8,14.2,23.5,30.6,0,55.4,1.2,48.25,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 9 (Feb) 1989,33.3,12.9,24.3,31.4,0,18.4,11.5,38.1,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 10 (Mar) 1989,34.1,17.8,25.5,31.6,0,16.4,3.4,45.98,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 11 (Mar) 1989,33.2,17.8,25.5,33.7,0,19.7,29.7,63.49,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 12 (Mar) 1989,34.9,18.1,25.7,32.9,0,18.4,8.9,62.34,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 13 (Mar) 1989,33.3,20.5,27.3,35,7.2,20,41.4,57.73,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 14 (Apr) 1989,35.1,17.6,26.4,34.5,0,18.4,13,51.66,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 15 (Apr) 1989,38.1,18.6,28,35.9,0,17.9,1,42.01,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 16 (Apr) 1989,34.3,21.5,28.2,34.9,0,18.5,5.6,55.28,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 17 (Apr) 1989,36,22.3,28.8,37.8,24.7,18.4,39.4,63.14,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 18 (Apr) 1989,34.2,23.1,28.9,36.9,0,18.4,29.5,60.13,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 19 (May) 1989,36,24.2,29.6,37.8,22.2,17.2,29.6,60.57,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 20 (May) 1989,38.3,21.7,30,41.2,0,18.4,23.9,54.21,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 21 (May) 1989,36.4,23.9,29.7,39.3,0,17.4,51.9,66.22,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 22 (May) 1989,33.7,23,29.1,37.1,0,19.1,45.5,63.17,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 23 (Jun) 1989,33.4,24.2,29.2,40.9,107,22.3,60.9,70.19,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 24 (Jun) 1989,33.4,23.4,27.8,38.3,152.65,22.1,83.9,79.61,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 25 (Jun) 1989,31,21.9,27.5,38,134.84,22,87.3,81.84,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 26 (Jun) 1989,30.6,22.9,27.1,37.2,32.3,18.4,78,79.42,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 27 (Jul) 1989,30,23.7,26.7,36,248.62,19.7,85.3,82.55,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 28 (Jul) 1989,30.6,24,27.1,36.4,130.7,14.8,82.2,80.04,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 29 (Jul) 1989,31.1,23,27.3,34.9,57.27,17.1,83.2,78.22,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 30 (Jul) 1989,31.1,23.4,26.6,37.4,268.61,22.3,92.7,86.21,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 31 (Jul) 1989,29.4,22.1,25.9,34.7,338.69,42.5,88.4,85.22,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 32 (Aug) 1989,30.1,21.4,26.1,35.6,14.64,20.6,83.1,81.56,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 33 (Aug) 1989,29,21.4,25.3,32.4,209.83,17.2,88.5,85.31,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 34 (Aug) 1989,28.9,22.7,25.5,34.1,247.89,20.5,91.8,88.08,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 35 (Aug) 1989,28,23.5,25.2,31.2,143.28,18.5,94.2,87.44,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 36 (Sep) 1989,30.2,22.5,25.8,34.4,59.11,30.4,77.1,82.81,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 37 (Sep) 1989,30.1,20.1,25.6,35.2,40.59,14.8,79.5,82.59,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 38 (Sep) 1989,30.9,22.1,26.6,36.2,9.1,16.6,76.7,80.05,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 39 (Sep) 1989,31.8,24.1,26.8,38.2,137.7,14.8,87.1,84.79,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 40 (Oct) 1989,31.2,22.9,26.1,38.3,206.51,12.8,85.8,85.79,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 41 (Oct) 1989,34.5,21.9,27.2,37.4,20,11.2,50,79.9,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 42 (Oct) 1989,37.2,21.9,27.9,39.1,0,14.8,27.5,72.04,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 43 (Oct) 1989,33.5,18.4,26.2,38.5,0,14.8,17.8,67.17,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 44 (Oct) 1989,34.7,17.7,26.8,37,0,14.8,20.2,61.24,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 45 (Nov) 1989,33.9,13.6,26.2,35,0,14.8,23,61.16,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 46 (Nov) 1989,33.5,18.3,26.7,35.6,0,51.8,34.1,57.72,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 47 (Nov) 1989,33.7,20.9,27.1,36.5,0,10.9,32,64.01,,Stem Rot
+"Karjat, MH, India","Karjat, MH, India",Week 48 (Nov) 1989,33.6,13.9,24.6,32.8,0,14.8,2.4,60.26,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 49 (Dec) 1989,32.1,14.2,24.2,31,0,14.8,3.5,57.38,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 50 (Dec) 1989,34.1,15.1,23.7,32.8,0,11.2,6.8,53.15,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 51 (Dec) 1989,33.2,13.9,22.9,31.5,0,10.6,12.2,53.12,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 52 (Dec) 1989,30.1,14.9,22.4,29,0,12.3,21.4,59.59,,Blast
+"Karjat, MH, India","Karjat, MH, India",Week 1 (Dec) 1989,29.4,15.7,22.6,30.1,0.2,12.3,49.1,62.23,,Blast
